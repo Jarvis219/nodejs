@@ -1,0 +1,684 @@
+{
+  "categories": [
+    {
+      "id": 301505,
+      "name": "T-shirt"
+    },
+    {
+      "id": 381553,
+      "name": "Suit"
+    },
+    {
+      "id": 346275,
+      "name": "Dress"
+    },
+    {
+      "id": 441038,
+      "name": "Pants"
+    },
+    {
+      "id": 647498,
+      "name": "Accessories"
+    },
+    {
+      "id": 410873,
+      "name": "Tracksuits"
+    }
+  ],
+  "products": [
+    {
+      "id": 504038,
+      "name": "Venus in Play Sleep Tee Peony",
+      "categoryId": "381553",
+      "content": "       *All colors feature some degree of heathering: meaning two or more colors/variations of yarn are knitted together, the effect is more pronounced in the grey because, however there are slight variations in the ambrosia, rose, and olympian blue. <br>\n\n\nWash and Dry on delicate cycle with like colors, Hang or Line Dry recommended - tumble dry low heat. Light Iron ok (avoid lace and drawstring)<br>\n\n \nbody: 87% polyester, 10% rayon, 3% spandex (lace trim nylon/spandex)<br>\n\nMade in the USA<br>\n\nBetween the Sheets Collection<br>",
+      "price": "120",
+      "sale": "10",
+      "introduce": "       Lounge like a goddess in our Venus in Play dolman tee. Intentionally oversized and uber-comfortable, you'll want to lounge for days in this U-neck tee. A double layer of whisper soft raw edge lace trims the sleeve and neck.<br>\nPair it with our Venus in Play Pant or Shortie for a truly divine lounge ensemble<br>\n\nMade in the USA<br>\n\nBetween the Sheets Collection<br>       ",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F44J024BC-lilac-venus-in-play-tee-f-web.jpeg?alt=media&token=f4e2100d-d7ee-4827-a613-f0a9fdd51d3d",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F33J024BC-peony-pink-venus-in-play-short-f2-web.jpeg?alt=media&token=fdcd1f85-96d2-4167-8504-fa04860e3752",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F44J024BC-grey-melange-pajama-set-venus-in-play-f-web.jpeg?alt=media&token=448f4c3a-99d8-47cd-b812-86cf515a8ec7",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F44J024BC-ivory-venus-in-play-tee-s4.jpeg?alt=media&token=111d264c-a54d-4384-9995-e9476861bc44",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F44J024BC-peony-pink-venus-in-play-tee-s-web.jpeg?alt=media&token=6d3981c2-7e2a-4a35-af46-42988884b618"
+      ],
+      "size": [
+        "XXS",
+        "XS",
+        "XS-S"
+      ],
+      "classify": "female"
+    },
+    {
+      "id": 529585,
+      "name": "Matchplay Long Robe Heather Grey",
+      "categoryId": "346275",
+      "content": "\n\nMorning chill, surprise knock on the door, or long weekend away - find your perfect go-to robe in our new range, Matchplay. In the most heavenly soft jersey knit, this will be the first thing you put on in the morning and when you get home in the evening.<br>\n\nFall in love with little details like the wide attached tie, the figure flattering a-line shape, or the long cozy sleeves that push and stay up when they need to. There's nothing more luxurious than wrapping yourself up in slinky jersey full-length robe, instantly transporting you to a luxurious spa or hotel. This could be love, or just a match made in lounge heaven.<br>\nMade in the USA<br>\n\nBetween the Sheets Collection<br>",
+      "price": "95",
+      "sale": "0",
+      "introduce": "Wash (cold) and Dry on delicate cycle with like colors, Hang or Flat Dry. Steam press, use press cloth to avoid damaging spandex.<br>\n\nbody: 95% rayon, 5% spandex<br>\n\nMade in the USA<br>\n\nBetween the Sheets Collection<br>\n\nRobe measures approximately 54\" long from shoulder to hem, to hem taken from size S hanging (weight of robe adds a bit of length since it is jersey knit)<br>\n\n*Models are 5'7- 5' 11\", wearing size small<br>\n\n",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F51J025BC-grey-robe-matchplay-still-life-web.jpeg?alt=media&token=98d8d774-5fc6-4e84-96b8-c11ec8c712a4",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F51J025BC-grey-melange-jersey-knit-robe-matchplay-f2-web.jpeg?alt=media&token=ff82d306-0935-4a88-bfa9-85658e9a0abe",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F51J025BC-grey-robe-matchplay-flat-web.jpeg?alt=media&token=c76d2193-7b99-4141-93a3-048de65cc32c",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F51J025BC-ivory-jersey-knit-robe-matchplay-d-web.jpeg?alt=media&token=bffbe10e-278d-4b5b-a731-ede0a3485fe9",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F51J025BC-ivory-robe-matchplay-still-life-web.jpeg?alt=media&token=69eed0f2-ed5f-4a25-aede-bc5ca19b151d"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "M-L"
+      ],
+      "classify": "female"
+    },
+    {
+      "id": 173166,
+      "name": "Deco Lace Robe Peach",
+      "categoryId": "346275",
+      "content": "inner tie fastens at wearer's right, outer tie at wearer's left<br>\nbias cut 100% silk charmeuse, 100% nylon leavers lace, dry clean only<br>\ndelicate baby hem and french seams<br>\n\nMade in the USA<br>\n\nLayla L'obatti - Specimens of Seduction TM<br>",
+      "price": "90",
+      "sale": "0",
+      "introduce": "On Sale 20% off - Only a few left!<br>\nIf diamonds are a girl's best friend, you'll win hearts, diamonds, and more in this stunning satin and lace robe. Here's betting you'll find this the perfect piece to pack for a romantic getaway or even for lounging around on a night in.<br>\n\n100% silk<br>\n\nMade in the USA<br>",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F54S002LL-deco-lace-robe-peach-s-web.jpeg?alt=media&token=7b1cfe9c-cabe-440a-80dc-ca2d33c5d908",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F54S002LLweb_ivo_f.jpeg?alt=media&token=46d9a143-97f5-4972-9a24-077c35510f4f",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F54S002LLweb_pch_flat.jpeg?alt=media&token=bf222f25-7b1b-4514-9b01-e94ac23bbec4",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F54S002LL-deco-lace-robe-peach-f-web.jpeg?alt=media&token=16ff701b-c3f4-4b4f-bc18-d3af9f3c05a0",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F54S002LLweb_red_f.jpeg?alt=media&token=a11c4291-98b6-4316-ae83-973c53a09208"
+      ],
+      "size": [
+        "XXS",
+        "S",
+        "M",
+        "M-L",
+        "L"
+      ],
+      "classify": "female"
+    },
+    {
+      "id": 625208,
+      "name": " Arabesque Wrap Robe Gown Lagoon silk",
+      "categoryId": "346275",
+      "content": "100% silk and hand dyed/hand cut & appliqu�d lace<br>\nMatte charmeuse outer, satin finish against skin<br>\nSilk satin binding at back opening, along neck/front<br>\nDelicate french seams and baby hem<br>\nInverted box pleat with satin outer in contrast with matte body (for those meaningful exits)<br>\nDouble tie with side slit and outer loop allow for easy adjustable fit/sizing<br>\n\n\nDry clean<br>",
+      "price": "90",
+      "sale": "0",
+      "introduce": "You see, but what are you really seeing? The mirage, the tease, the blur... the feeling that what you want is just out of reach. This is essence of temptation and the spark that lights the fires of love - let the sparks fly with Arabesque.<br>\n\nMastering deshabille, a state of undress, can be an art. This elegant midnight blue wrap dressing gown would be the paint, inky blue silk charmeuse cascades over curves, with an alluring peek a boo back slit, and cutaway lace applique at each shoulder- making your blue period a work of art worth remembering.<br>",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F52S006LL_navy_web_bd.jpeg?alt=media&token=0ee099fb-b12a-49dd-8e83-9c114dd77552",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F52S006LL_navy_web_f.jpeg?alt=media&token=f51d393d-232c-4c60-83a6-1515f98fe14e",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F52S006LL_navy_web_f2.jpeg?alt=media&token=9717f5aa-bf35-45d9-9088-4873c87ea6c3",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F52S006LL_web_flat_d.jpeg?alt=media&token=2d108ffc-e025-49a1-82af-069ccebe3b27",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F52S006LL_web_flat_f.jpeg?alt=media&token=6a7507e1-4505-4a57-82eb-666e4a5f71a9"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "M-L",
+        "L"
+      ],
+      "classify": "female"
+    },
+    {
+      "id": 79652,
+      "name": "FINAL SALE Curtain Call Crop Sweatshirt Pink",
+      "categoryId": "301505",
+      "content": "All colors display some degree of heathering from multiple yarns used, effect is more pronounced on charcoal, heather grey, oatmeal<br>\n\nRibbon drawstring tie at waist lets you cinch a line silhouette<br>\n\nFront pocket with openings and room for both hands<br>\n\nAvoid jewelry that may snag fabric<br>\n\nAvoid washing with items that may snag fabric during wash<br>\n\nMachine wash cold with like colors<br>\n\nDo Not Bleach, No tumble dry. Flat/line dry. No Iron, Steam ok. <br>\n\n87% polyester, 9% rayon, 4% spandex<br>\n\n \n\nMade in the USA<br>\n\nBetween the Sheets Collection<br>",
+      "price": "88",
+      "sale": "0",
+      "introduce": "Only 3 left! Now 50% off, originally $80. This item is FINAL SALE<br>\n\nCurtain Call crop sweatshirt, a 70's throwback with modern styling, goes from workout to play. Made from super soft terry knit - the pullover style sweatshirt has fitted dolman cap sleeves and a- line silhouette. Jersey on one side terry on the back, the reverse terry details create a two-tone effect on details like collar, sleeves, front pocket, hem. <br>\n\nStyle it with track pants or joggers from Curtain Call or Make a Pass for a full look or pair it with some high waisted bell bottoms or some leggings and leg warmers for scene stealing look a la Flash Dance. <br>\n\nMade in the USA<br>",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F42T029BC-curtain-call-terry-crop-sweatshirt-pink-b.jpeg?alt=media&token=380d5937-26cc-4747-ad8b-0f3f2c619e4f",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F42T029BC-curtain-call-terry-crop-sweatshirt-pink-d-web.jpeg?alt=media&token=419f8cb5-abaa-4068-9863-f65cf48319e7",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F42T029BC-curtain-call-terry-crop-sweatshirt-pink-f.jpeg?alt=media&token=fa174dbc-4432-432a-9a90-74cd8bf74b46",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F42T029BC-curtain-call-terry-crop-sweatshirt-pink-f2.jpeg?alt=media&token=6854e106-030e-4305-b7b0-e27787857b45",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F42T029BC-curtain-call-terry-crop-sweatshirt-turquoise-f2-web.jpeg?alt=media&token=e203afa1-d665-4795-abf7-95669e708b21"
+      ],
+      "size": [
+        "XS",
+        "XS-S",
+        "S",
+        "M",
+        "M-L",
+        "L"
+      ],
+      "classify": "female"
+    },
+    {
+      "id": 567428,
+      "name": "Matchplay Lounge Pant Navy",
+      "categoryId": "441038",
+      "content": "Wash and Dry on delicate cycle with like colors, Hang or Flat Dry. Steam press, use press cloth to avoid damaging spandex<br>\n\nbody: 95% rayon, 5% spandex<br>\n\nMade in the USA<br>\n\nBetween the Sheets Collection<br>\n\n*Model is 5' 11\" wearing size small<br>\n\nthe silhouette is slightly updated version of our Well Played lounge pant, with slightly more room in thighs and wider waistband.<br>",
+      "price": "99",
+      "sale": "0",
+      "introduce": "Sold out sizes are out of stock through early 2021, we will update our social media/email list when we are able to restock.<br>\nSlumber party, run to the corner store, or lazy weekend in bed - find your perfect go-to lounge pant in our new range, Matchplay. In the most heavenly soft and comfortable jersey knit it will be hard to get you out of this slinky soft pant.<br>\n\nFall in love with little details like the wide elastic-free waistband, the figure flattering slim leg silhouette, or the delicate petersham ribbon tie. This could be love, or just a match made in lounge heaven.<br>\n\nMade in the USA<br>",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F41T030BC-make-pass-terry-pullover-charcoal-navy-f.jpeg?alt=media&token=8aa97841-36de-41fc-bfb2-8d0117d738ed",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F37J025BC-black-jersey-lounge-pant-matchplay-f.jpeg?alt=media&token=07d1ec7c-6afd-463e-b4c9-f52b8ae75105",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F37J025BC-coral-lounge-pant-matchplay-f2-web.jpeg?alt=media&token=971bd810-f0c1-421f-b788-ee2533e55815",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F45J025BC-black-jersey-lounge-set-matchplay-f2.jpeg?alt=media&token=22096142-0948-4560-82d9-4acec3a61742",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F45J025BC-coral-cowlneck-matchplay-f5-web.jpeg?alt=media&token=2261980e-c8eb-44d7-8202-208b715521d2"
+      ],
+      "size": [
+        "XS",
+        "XS-S",
+        "S",
+        "M"
+      ],
+      "classify": "female"
+    },
+    {
+      "id": 612672,
+      "name": "Cotton Over the Knee Socks Purple",
+      "categoryId": "647498",
+      "content": "Content & Care Instructions:<br>\n\n-85% Regenerate Cotton, 10% Nylon 5%Elastic<br>\n-Machine wash, tumble dry low (recommend hang/flat dry)<br>\n\n* all legwear is FINAL SALE and cannot be returned or exchanged once opened, please contact us if you are concerned about sizing. <br>\n\nMade in USA by Rock N Socks<br>",
+      "price": "66",
+      "sale": "0",
+      "introduce": "We love the comfortable & sexy combo of solid over the knee socks, paired with a pair of underwear or some of our shorties. The ultimate way to lounge on your own or head to toe effortless for your lover between the sheets. In solid ivory, these schoolgirl style socks are also never out of style.<br>\n\nThe icing on an already sweet treat, they're made in America of earth eco-cotton.<br>\n\n",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F51J025BC-red-robe-matchplay-f5-web.jpeg?alt=media&token=32a96296-8e04-459c-9f6d-4889c595f113",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fsock-solid-over-the-knee-ivory-f-web.jpeg?alt=media&token=7287a9d7-b7b1-420d-b5a5-803286bbdd8b",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fsock-solid-over-the-knee-ivory-spring-flowers-flatlay.jpeg?alt=media&token=174a07b6-149f-4f82-8732-7786d8593729",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fsock-solid-over-the-knee-purple-d-web.jpeg?alt=media&token=0e4842b6-4208-44c2-8549-57ef7531cd5d",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fsock-solid-over-the-knee-purple-s-web.jpeg?alt=media&token=0daccac2-37b6-4d4b-a652-ed616a61bfd0"
+      ],
+      "size": [
+        "XS",
+        "XS-S",
+        "S",
+        "M",
+        "M-L"
+      ],
+      "classify": "female"
+    },
+    {
+      "id": 246497,
+      "name": "Herringbone Crew Socks Purple",
+      "categoryId": "647498",
+      "content": "Content & Care Instructions:<br>\n\n-85% Regenerate Cotton, 10% Nylon 5%Elastic<br>\n-Machine wash, tumble dry low (recommend hang/flat dry)<br>\n\n* all legwear is FINAL SALE and cannot be returned or exchanged once opened, please contact us if you are concerned about sizing. <br>\n\nMade in USA by Rock N Socks<br>",
+      "price": "33",
+      "sale": "1",
+      "introduce": "Sweet dreams are made of these- cozy crew socks in pale yellow with chevron/herringbone pattern in navy.  Treat yourself from head to toe with a a day of lounging in cozy socks &  pajamas. We also love socks & intimates for the ultimate girl next door lounge look. The icing on top, they're made from earth friendly recycled cotton blend right here in the USA.",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fsock-herringbone-ankle-flax-navy-s-web.jpeg?alt=media&token=7aa7441a-9a18-43f0-a839-5ffc2e76d96c",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fsock-herringbone-ankle-flax-navy-bed-flat-lay.jpeg?alt=media&token=eefcdc14-679b-49fb-8cca-1a4f11fed4f8",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fsock-herringbone-ankle-flax-navy-f.jpeg?alt=media&token=e8104c62-559f-4506-be3e-95aa869c029d",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fsock-herringbone-ankle-purple-denim-flatlay-web.jpeg?alt=media&token=552cb205-5228-4420-8a17-6b744089f6b2",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fsock-herringbone-ankle-purple-denim-s-web.jpeg?alt=media&token=9791c8ce-88db-4e46-b6a4-af88e1a08da6"
+      ],
+      "size": [
+        "S"
+      ],
+      "classify": "female"
+    },
+    {
+      "id": 416256,
+      "name": "Official Yarn Dyed Oversized Stripe",
+      "categoryId": "301505",
+      "content": "We hope you are satisfied with all of your purchases but if you ever need to return an item, you can do so within 28 days from the date of delivery.<br>\n\nFor hygiene reason, once the seal has been opened on fashion face masks, cosmetics or pierced jewellery, these items can no longer be returned. We please ask you try on swimwear and lingerie over your own underwear and ensure to keep the seal intact.<br>\n\n",
+      "price": "90",
+      "sale": "6",
+      "introduce": "100% Cotton, Model Is 6'1\" And Wears A Size M<br>\nT-shirts and vests are the power players in every man’s wardrobe<br>\n\nThis season the dream team in male dressing gets daring with t-shirts and vests taking on poppin’ paisley prints and sporty slogans to keep you enviably on-trend. Vests come in versatile block colours for building your perfect look and polos in polished prints, while back to nature animal motifs are the new trend to try. Pair your printed tee with skinny jeans and suede desert boots to take you from day to night in style.<br>",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fyellow-official-yarn-dyed-oversized-stripe-t-shirt.jpeg?alt=media&token=3fc5ac87-69f8-4c7c-b0de-c1c37d39fa36",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fyellow-official-yarn-dyed-oversized-stripe-t-shirt%20(1).jpeg?alt=media&token=2d47c627-e973-4a19-bbb3-386be4d80438",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fyellow-official-yarn-dyed-oversized-stripe-t-shirt%20(2).jpeg?alt=media&token=ce904540-e4c5-4030-995b-bec0aa90b20c",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fyellow-official-yarn-dyed-oversized-stripe-t-shirt%20(3).jpeg?alt=media&token=39e615e0-5273-4d10-a85c-c9ee8ce5cd52",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fyellow-official-yarn-dyed-oversized-stripe-t-shirt.jpeg?alt=media&token=d997f710-781c-4204-9517-a6e2546d0544"
+      ],
+      "size": [
+        "XS",
+        "XS-S",
+        "S",
+        "M",
+        "M-L",
+        "L"
+      ],
+      "classify": "male"
+    },
+    {
+      "id": 488371,
+      "name": "Oversized Stripe MAN Signature",
+      "categoryId": "301505",
+      "content": "We hope you are satisfied with all of your purchases but if you ever need to return an item, you can do so within 28 days from the date of delivery.<br>\n\nFor hygiene reason, once the seal has been opened on fashion face masks, cosmetics or pierced jewellery, these items can no longer be returned. We please ask you try on swimwear and lingerie over your own underwear and ensure to keep the seal intact.<br>",
+      "price": "59",
+      "sale": "12",
+      "introduce": "100% Polyester. Oversized Stripe MAN Signature T-Shirt. Model is 6'1\" And Wears Size M.<br>\nT-shirts and vests are the power players in every man’s wardrobe<br>\n\nThis season the dream team in male dressing gets daring with t-shirts and vests taking on poppin’ paisley prints and sporty slogans to keep you enviably on-trend. Vests come in versatile block colours for building your perfect look and polos in polished prints, while back to nature animal motifs are the new trend to try. Pair your printed tee with skinny jeans and suede desert boots to take you from day to night in style.<br>",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fwhite-oversized-stripe-man-signature-t-shirt.jpeg?alt=media&token=20d6ec08-0e45-4322-bd73-7deeb8314d38",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fwhite-oversized-stripe-man-signature-t-shirt%20(1).jpeg?alt=media&token=826c2a4b-a91b-4c57-bf48-286b8f79fe3a",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fwhite-oversized-stripe-man-signature-t-shirt%20(2).jpeg?alt=media&token=9dc3e072-9494-4451-9929-2ca25103c9d0",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fwhite-oversized-stripe-man-signature-t-shirt%20(3).jpeg?alt=media&token=42fc1382-5536-430e-b70f-dfa2b74fe5ef",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fwhite-oversized-stripe-man-signature-t-shirt.jpeg?alt=media&token=6e7a0e45-b09d-4a80-bf8a-f26b3d9e17ad"
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M-L",
+        "L"
+      ],
+      "classify": "male"
+    },
+    {
+      "id": 413354,
+      "name": "Oversized MAN Signature ",
+      "categoryId": "301505",
+      "content": "We hope you are satisfied with all of your purchases but if you ever need to return an item, you can do so within 28 days from the date of delivery.<br>\n\nFor hygiene reason, once the seal has been opened on fashion face masks, cosmetics or pierced jewellery, these items can no longer be returned. We please ask you try on swimwear and lingerie over your own underwear and ensure to keep the seal intact.<br>\n\n",
+      "price": "88",
+      "sale": "20",
+      "introduce": "100% Cotton. Model is 6,1 and wears size M.<br>\nT-shirts and vests are the power players in every man’s wardrobe<br>\n\nThis season the dream team in male dressing gets daring with t-shirts and vests taking on poppin’ paisley prints and sporty slogans to keep you enviably on-trend. Vests come in versatile block colours for building your perfect look and polos in polished prints, while back to nature animal motifs are the new trend to try. Pair your printed tee with skinny jeans and suede desert boots to take you from day to night in style.<br>",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-oversized-man-signature-t-shirt%20(3).jpeg?alt=media&token=a58ada92-7a86-4be6-ad78-6424f45397cb",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-oversized-man-signature-t-shirt%20(1).jpeg?alt=media&token=09079636-9eb0-4297-a412-7bc97857bb7c",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-oversized-man-signature-t-shirt%20(2).jpeg?alt=media&token=9d3c4901-bc77-44fd-86a6-b8cc8015b4c2",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-oversized-man-signature-t-shirt%20(3).jpeg?alt=media&token=d9b348b9-128b-41f4-908e-b4d2bfcd434a",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-oversized-man-signature-t-shirt.jpeg?alt=media&token=dd7d2e6b-6067-4224-8648-436ac1a5bb65"
+      ],
+      "size": [
+        "XXS",
+        "XS",
+        "XS-S",
+        "S",
+        "M",
+        "M-L"
+      ],
+      "classify": "male"
+    },
+    {
+      "id": 335329,
+      "name": "MAN Signature Embroidered ",
+      "categoryId": "301505",
+      "content": "We hope you are satisfied with all of your purchases but if you ever need to return an item, you can do so within 28 days from the date of delivery.<br>\n\nFor hygiene reason, once the seal has been opened on fashion face masks, cosmetics or pierced jewellery, these items can no longer be returned. We please ask you try on swimwear and lingerie over your own underwear and ensure to keep the seal intact.<br>",
+      "price": "77",
+      "sale": "12",
+      "introduce": "100% Cotton. Model is 6,1 and wears size M.<br>\nT-shirts and vests are the power players in every man’s wardrobe<br>\n\nThis season the dream team in male dressing gets daring with t-shirts and vests taking on poppin’ paisley prints and sporty slogans to keep you enviably on-trend. Vests come in versatile block colours for building your perfect look and polos in polished prints, while back to nature animal motifs are the new trend to try. Pair your printed tee with skinny jeans and suede desert boots to take you from day to night in style.<br>",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-oversized-man-signature-t-shirt.jpeg?alt=media&token=ffe3d586-8d82-49b0-bc75-17dfc66e9f38",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-oversized-man-signature-t-shirt%20(1).jpeg?alt=media&token=2efbc7c1-c960-4300-a268-691a30b1535e",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-oversized-man-signature-t-shirt%20(2).jpeg?alt=media&token=7406b7c1-d02a-4b66-b968-1911af24a685",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-oversized-man-signature-t-shirt%20(3).jpeg?alt=media&token=99c475f9-8df9-483d-94b2-31cd361540bd",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-oversized-man-signature-t-shirt.jpeg?alt=media&token=3c37101c-f52d-4151-b15e-44e5addfa3c6"
+      ],
+      "size": [
+        "XXS",
+        "XS",
+        "XS-S",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "classify": "male"
+    },
+    {
+      "id": 347563,
+      "name": "Regular Fit Ss Palm Shirt & Short Set",
+      "categoryId": "410873",
+      "content": "We hope you are satisfied with all of your purchases but if you ever need to return an item, you can do so within 28 days from the date of delivery.<br>\n\nFor hygiene reason, once the seal has been opened on fashion face masks, cosmetics or pierced jewellery, these items can no longer be returned. We please ask you try on swimwear and lingerie over your own underwear and ensure to keep the seal intact.<br>\n\n",
+      "price": "89",
+      "sale": "0",
+      "introduce": "100% polyester. Model is 6'1\" and wears size M.<br>",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-regular-fit-ss-palm-shirt-%26-short-set%20(3).jpeg?alt=media&token=215dcc22-4e73-42f9-abc8-5f7f6162d65a",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-regular-fit-ss-palm-shirt-%26-short-set%20(1).jpeg?alt=media&token=57545628-2ad0-4310-ab71-0b44eea7d165",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-regular-fit-ss-palm-shirt-%26-short-set%20(2).jpeg?alt=media&token=5da64e64-d91d-48a6-b87e-317d6f1c534a",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-regular-fit-ss-palm-shirt-%26-short-set%20(3).jpeg?alt=media&token=a586acba-4753-4c50-9cea-c6c9f3d96dbc",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fblack-regular-fit-ss-palm-shirt-%26-short-set.jpeg?alt=media&token=29f5d4b1-c570-4a5d-b79e-c0e9fc238d60"
+      ],
+      "size": [
+        "XXS",
+        "XS",
+        "S"
+      ],
+      "classify": "male"
+    },
+    {
+      "id": 349561,
+      "name": "Oversized Flame Sweat & Basketball Short Set",
+      "categoryId": "410873",
+      "content": "We hope you are satisfied with all of your purchases but if you ever need to return an item, you can do so within 28 days from the date of delivery.<br>\n\nFor hygiene reason, once the seal has been opened on fashion face masks, cosmetics or pierced jewellery, these items can no longer be returned. We please ask you try on swimwear and lingerie over your own underwear and ensure to keep the seal intact.<br>",
+      "price": "56",
+      "sale": "9",
+      "introduce": "70% Cotton And 30% Polyester, Model Is 6'1\" And Wears Size M.<br>\nLil Gotit has just dropped the freshest tracksuit range ever, right here with boohooMAN!<br>\n\nCheck out our latest collaboration with American rapper Lil Gotit. The collection is all about the statement sets, so expect bold colours and statement prints paired with futuristic tech detailing. It’s a diverse range that targets all of our customers ranging from statement streetwear sets to cleaner smarter sets. This edit features: varsity silhouettes, paisley all over prints, hi-lo sets, large scale graphics and branded trims with subtle updates. Shop the edit today!<br>",
+      "imageIntro": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fteal-green-oversized-flame-sweat-%26-basketball-short-set.jpeg?alt=media&token=c913fbf1-e57e-43e4-b8a4-d5dc028fb612",
+      "album": [
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fteal-green-oversized-flame-sweat-%26-basketball-short-set%20(1).jpeg?alt=media&token=ea8e2dd3-88a7-41c6-a429-51310c32d533",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fteal-green-oversized-flame-sweat-%26-basketball-short-set%20(2).jpeg?alt=media&token=4e18b4b3-4315-4bf0-911f-2238982d49bd",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fteal-green-oversized-flame-sweat-%26-basketball-short-set%20(3).jpeg?alt=media&token=b7a2cecf-9900-41aa-8023-8c9d0ea2dda6",
+        "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fteal-green-oversized-flame-sweat-%26-basketball-short-set.jpeg?alt=media&token=c8526a5e-76e4-4e0f-864c-e4526f6aa628"
+      ],
+      "size": [
+        "XXS",
+        "XS",
+        "XS-S",
+        "S",
+        "M",
+        "M-L",
+        "L",
+        "XL"
+      ],
+      "classify": "male"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 287854,
+      "name": "Mr Rin",
+      "email": "songoku2192@gmail.com",
+      "phone": "0968686686",
+      "content": "sa",
+      "status": "Not approved yet"
+    },
+    {
+      "id": 352139,
+      "name": "Trần Quang",
+      "email": "quangtaph12673@fpt.edu.vn",
+      "phone": "0968686686",
+      "content": "liên hệ check 01",
+      "status": "Approved"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "kaio@gmail.com",
+      "name": "kaio",
+      "password": "$2a$10$uzvRF1lWNkQHV6LhlZBbE.GjJzppR4rdEhkEZdZ31qCppba4IG8uu",
+      "permission": "Admin"
+    },
+    {
+      "id": 2,
+      "email": "kh1@gmail.com",
+      "name": "Mr Rin",
+      "password": "$2a$10$Fz/uz3u66mo09IGdNSb5hed9OOymtdqjtQooa2Yxyb1ltxaOmIPKC",
+      "permission": "Member"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$OLq785kW..a8FwQQLJs.DO7m0ATNZGjg52z1bihyQ.qBjR12TF2aG",
+      "name": "Trần Quang",
+      "permission": "Admin",
+      "id": 3
+    },
+    {
+      "email": "kh09@gmail.com",
+      "password": "$2a$10$1/lW8zUTx4x3JWjsEx7ONuxWspaFAAhUiAOYv8tTeh37vsc9K3qfm",
+      "name": "khach hang 09",
+      "permission": "Member",
+      "id": 4
+    },
+    {
+      "email": "th1@gmail.com",
+      "password": "$2a$10$gRgOzVvRgIfbBOynN9zfDul0aUKXWcNjQ8WRmolYv0IPyWI4NI75y",
+      "name": "tv1",
+      "permission": "Member",
+      "id": 5
+    }
+  ],
+  "carts": [
+    {
+      "id": 544011,
+      "productId": "612672",
+      "user": "admin@gmail.com",
+      "name": "Cotton Over the Knee Socks Purple",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F51J025BC-red-robe-matchplay-f5-web.jpeg?alt=media&token=32a96296-8e04-459c-9f6d-4889c595f113",
+      "price": "66",
+      "sale": "0",
+      "size": "XS",
+      "totalmoney": 66,
+      "amount": "1",
+      "status": "not approved yet",
+      "days": "13-07-2021"
+    }
+  ],
+  "orders": [
+    {
+      "id": 575964,
+      "address": "Trịnh Văn Bô - Nam Từ Liêm - Hà Nội",
+      "email": "quangtaph12673@fpt.edu.vn",
+      "name": "Mr Rin",
+      "note": "order product 1",
+      "phone": "0968686686",
+      "product": [
+        {
+          "id": 75150,
+          "productId": "529585",
+          "user": "admin@gmail.com",
+          "name": "Matchplay Long Robe Heather Grey",
+          "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F51J025BC-grey-robe-matchplay-still-life-web.jpeg?alt=media&token=98d8d774-5fc6-4e84-96b8-c11ec8c712a4",
+          "price": "95",
+          "sale": "0",
+          "size": "M",
+          "status": "not approved yet",
+          "days": "20-06-2021",
+          "totalmoney": "380",
+          "amount": "4"
+        },
+        {
+          "id": 157428,
+          "productId": "349561",
+          "user": "admin@gmail.com",
+          "name": "Oversized Flame Sweat & Basketball Short Set",
+          "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fteal-green-oversized-flame-sweat-%26-basketball-short-set.jpeg?alt=media&token=c913fbf1-e57e-43e4-b8a4-d5dc028fb612",
+          "price": "56",
+          "sale": "9",
+          "size": "S",
+          "status": "not approved yet",
+          "days": "20-06-2021",
+          "totalmoney": "188",
+          "amount": "4"
+        }
+      ],
+      "sumMoney": 568,
+      "pay": "Payment on delivery",
+      "status": "cancelled",
+      "days": "20-06-2021"
+    },
+    {
+      "id": 676784,
+      "address": "Trịnh Văn Bô - Nam Từ Liêm - Hà Nội",
+      "email": "rintl260700@gmail.com",
+      "name": "Mr Rin",
+      "note": "kjukj",
+      "phone": "0968686686",
+      "product": [
+        {
+          "id": 408682,
+          "productId": "504038",
+          "user": "admin@gmail.com",
+          "name": "Venus in Play Sleep Tee Peony",
+          "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F44J024BC-lilac-venus-in-play-tee-f-web.jpeg?alt=media&token=f4e2100d-d7ee-4827-a613-f0a9fdd51d3d",
+          "price": "120",
+          "sale": "10",
+          "size": "XXS",
+          "totalmoney": 110,
+          "amount": "1",
+          "status": "not approved yet",
+          "days": "20-06-2021"
+        },
+        {
+          "id": 452205,
+          "productId": "488371",
+          "user": "admin@gmail.com",
+          "name": "Oversized Stripe MAN Signature",
+          "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fwhite-oversized-stripe-man-signature-t-shirt.jpeg?alt=media&token=20d6ec08-0e45-4322-bd73-7deeb8314d38",
+          "price": "59",
+          "sale": "12",
+          "size": "XS",
+          "totalmoney": 47,
+          "amount": "1",
+          "status": "not approved yet",
+          "days": "20-06-2021"
+        },
+        {
+          "id": 391716,
+          "productId": "612672",
+          "user": "admin@gmail.com",
+          "name": "Cotton Over the Knee Socks Purple",
+          "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F51J025BC-red-robe-matchplay-f5-web.jpeg?alt=media&token=32a96296-8e04-459c-9f6d-4889c595f113",
+          "price": "66",
+          "sale": "0",
+          "size": "XS",
+          "totalmoney": 66,
+          "amount": "1",
+          "status": "not approved yet",
+          "days": "20-06-2021"
+        }
+      ],
+      "sumMoney": 223,
+      "pay": "Payment on delivery",
+      "status": "delivered",
+      "days": "20-06-2021"
+    },
+    {
+      "id": 11539,
+      "user": "kh09@gmail.com",
+      "name": "Trần Quang",
+      "email": "quangtaph12673@fpt.edu.vn",
+      "phone": "0968686686",
+      "address": "Sơn Dương - Tuyên Quang",
+      "note": "checkout products",
+      "sumMoney": 364,
+      "product": [
+        {
+          "id": 430505,
+          "productId": "349561",
+          "user": "kh09@gmail.com",
+          "name": "Oversized Flame Sweat & Basketball Short Set",
+          "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fteal-green-oversized-flame-sweat-%26-basketball-short-set.jpeg?alt=media&token=c913fbf1-e57e-43e4-b8a4-d5dc028fb612",
+          "price": "56",
+          "sale": "9",
+          "size": "XS-S",
+          "status": "not approved yet",
+          "days": "21-06-2021",
+          "totalmoney": 188,
+          "amount": "4"
+        },
+        {
+          "id": 293806,
+          "productId": "79652",
+          "user": "kh09@gmail.com",
+          "name": "FINAL SALE Curtain Call Crop Sweatshirt Pink",
+          "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2F42T029BC-curtain-call-terry-crop-sweatshirt-pink-b.jpeg?alt=media&token=380d5937-26cc-4747-ad8b-0f3f2c619e4f",
+          "price": "88",
+          "sale": "0",
+          "size": "XS-S",
+          "totalmoney": 176,
+          "amount": "2",
+          "status": "not approved yet",
+          "days": "21-06-2021"
+        }
+      ],
+      "days": "21-06-2021",
+      "pay": "Payment on delivery",
+      "status": "not approved yet"
+    },
+    {
+      "id": 41642,
+      "address": "Trịnh Văn Bô - Nam Từ Liêm - Hà Nội",
+      "name": "Trần Quang",
+      "email": "quangtaph12673@fpt.edu.vn",
+      "note": "note1",
+      "phone": "0968686686",
+      "status": "cancelled",
+      "days": "24-06-2021",
+      "pay": "Payment on delivery",
+      "product": [],
+      "sumMoney": 0
+    }
+  ],
+  "informations": [
+    {
+      "id": 417748,
+      "numberPhone": "125-711-811 | 125-668-886",
+      "address": "160 Pennsylvania Ave NW, Washington, Castle, PA 16101-5161",
+      "linkMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.4552460252553!2d-77.01553708487788!3d38.890703654944154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b786fffd5359%3A0x3f23c9930d989ac2!2s160%20Pennsylvania%20Avenue%20NW%2C%20Washington%2C%20DC%2020016%2C%20USA!5e0!3m2!1sen!2s!4v1623328816647!5m2!1sen!2s\" width=\"600\" height=\"750\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+      "slogan": "website Ashion of kaio",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Flogo.png?alt=media&token=adabe281-9bba-44c4-b28b-a4fd43496bf6",
+      "email": "Quangtaph12673@fpt.edu.vn"
+    }
+  ],
+  "posts": [
+    {
+      "id": 435045,
+      "title": "30 Cute Black Dress Outfits – How To Wear A Black Dress",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2FBlack-Dress-Outfits-1-600x916.jpeg?alt=media&token=eedbc8cd-854f-4b92-ad0a-1c9578208ced",
+      "author": "Tor Hampton",
+      "introduce": "Is there anything more stylish than the perfect black dress? Black doesn’t have to be boring, and there are plenty of ways to express yourself whilst wearing this most fashionable shade.....",
+      "content": "<h2>How to Wear a Black Dress</h2><p>The possibilities are endless when it comes to wearing your favorite little black dress, making it easy to create a timeless outfit that will attract attention for all the right reasons. Here are some of our favorite ways to wear this wardrobe staple:</p><ul><li>Karl Lagerfeld knows that his signature monochrome never goes out of fashion, and if it’s good enough for the King of fashion it’s good enough for us, so why not inject some spring time style into your outfit by pairing your black dress with crisp white accessories?</li><li>If you’re shopping for a new dress then look for one with attention-grabbing details. Interesting fabrics such as super-soft silk, delicate lace or cotton with raw edging can turn a good dress into a great one.</li><li>It’s OK to experiment and break the fashion rules: you can wear black with other neutral shades such as nude, beige and even navy blue. The overall effect will look classic and incredibly stylish!</li><li>Want to really make a statement and stand out from the crowd? Channel you inner A-lister and team your dress with a neck-lengthening up ‘do and plenty of gold and faux-diamond embellished bling for a look that is truly red carpet worthy. Look to the recent Oscars for the ultimate style inspiration.</li></ul><h2>Wearing a Black Dress Outfit Casually</h2><p>Although they are a popular go-to look for after dark, black dresses aren’t just for wearing in the evening. In fact, more and more high profile bloggers and celebrities are choosing to wear black during the day time too, because it’s such an easy and convenient look to put together whilst still looking fashion-forward and on trend. Here are a few styling tips to inspire you:</p><ul><li>For a laid-back casual look, add either flat ankle boots or loafers to your outfit. Look for shoes that are embellished with laces, cut out details, tassels or metal hardware to add on-trend,, attention-grabbing interest to your outfit.</li><li>Throw on a fitted leather or denim jacket. It’s the perfect cover up for cooler days, and will give your outfit a rock star edge without looking too fussy.</li><li>Accessories are important to tie your look together. Add an oversized scarf and chunky jewelry to inject a pop of color into your outfit. Long line necklaces are a great choice for elongating your body, and yellow and orange are both set to be popular accent colours for 2017.</li><li>Choose your purse wisely! Opt for leather day tote or shoulder bag to keep your look as laid back and casual as possible.</li></ul><h2>How to Make a Black Dress Stand Out</h2><p>Want to really make your black dress stand out from the crowd for all the right reasons? It’s much easier than you might think! Choosing the right shoes to wear with your dress is one of the most important style decisions you can make to set the tone of your outfit and ensure you’re attracting the right kind of attention. Here are a few fun ideas for your feet:</p><ul><li>Why not make a statement by teaming a bright and attention grabbing pair of shoes with a mini dress? A statement heel is always a good idea, will help to draw attention to your legs and also give your outfit a fun twist.</li><li>Sports-luxe and athleisure are two of this season’s hottest trends. You can tie these trends together with your classic dress using the right shoes! Inject a sporty aesthetic into your look by pairing a mid-length black dress with your favourite sneakers.</li><li>There is nothing more stylish than black on black, so for a look worthy of a fashion editor why not wear your black dress with flat black loafers or brogues for a fashion-forward look with a no-nonsense masculine feel?</li><li>Looking forward to summer? Don’t underestimate the power of a killer pair of sandals! Summer gives you more freedom to have fun with your feet, so look for sandals with humorous detailing: fruit or animal charms and embellishments can look fantastic.</li></ul><p>A black dress is a wardrobe staple you can always depend on: Everyone should one in their closet. Do you have any top tips to share for wearing yours? Where are you wearing your favorite black dress and what are you wearing it with? We’d love to hear your ideas!</p><p>Featured Photo: Arissa is wearing a lace detail black dress underneath a full skirted black skirt, teamed with simple black heeled court shoes.</p><p>Dress: Dresshead, Skirt: ASOS, Shoes: Aldo</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2017/04/Black-Dress-Outfits-1-1-540x0.jpg\" alt=\"Mary Seng is seen in a black dress consisting of a mesh net top, a striking bralette underneath, and an intricately patterned maxi skirt. Mary wears this piece with black stilettos to complete this glamorous style. Brands not specified.\"></figure><p><br>&nbsp;</p>",
+      "day": "20-06-2021"
+    },
+    {
+      "id": 332503,
+      "title": "What To Wear For Spring: The Best Spring Outfits This Season",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2FSpring-Outfits-2-600x900.jpeg?alt=media&token=dddc1e23-1f68-492a-961b-b0eac63eecd1",
+      "author": "Annette Lin",
+      "introduce": "A new season means new outfits, and we couldn’t be more excited about that. But what do you do when the weather’s cold in the morning, hot in the day…",
+      "content": "<h2>The Best Basics To Wear For Spring</h2><p>The key to having the perfect spring outfit is to start with good spring basics. If you have a solid wardrobe of essentials, you’ll be able to mix and match with ease. They’ll also provide a stylish spring outfit you can add accessories to. Here are a few pieces you should start with:</p><ul><li>The elevated t-shirt. For a piece that captures effortless cool, look for a t-shirt in a fabric such as neoprene or cashmere that will bring an extra touch of elegance to your outfit.</li><li>The light jacket. For chilly mornings and nights, a lightweight jacket is the ideal addition to your spring outfit. A trench coat is also a classic, but right now bomber jackets and denim jackets are trending for spring too.</li><li>The easy dress. A dress is an all-in-one spring outfit. Find one that has a relaxed but chic silhouette and all you have to do is throw it on the morning and go.</li><li>The cropped pant. Once an office classic and now an off-duty staple too, cropped trousers look relaxed but tailored too. Ideally you’d like a pair that sits at least mid waist and is cropped just above the ankle. Our favourite spring tip: you can wear it with heels and flats.</li><li>The perfect white trainer. Think weekend cool, rather than gym shoe. Favoured by the style crew for its off-duty cool, white trainers add a minimalist edge to spring outfits. Look for one in leather or sturdy canvas that has a slim silhouette and clean details.</li></ul><h2>How To Adapt Your Outfits From Winter To Spring</h2><p>You’re probably so used to wearing heavy coats that you don’t know what to do with the warmer weather. Read how we update our winter staples for spring outfits:</p><ul><li>Wear silk scarves instead of chunky knitwear. Choose one that’s colourful and bright to tie around your neck, your wrist or your bag for a fun spring accessory.</li><li>Try a cotton sweater instead of wool. Not only will it be more comfortable, if it gets warm you can always channel preppy style and tie it around your shoulders for a relaxed spring look.</li><li>Wear a suede or denim coat instead of faux fur. Not only are these wardrobe classics the perfect cover up for spring weather, they also add an instant edge to any outfit.</li><li>Swap a turtleneck for a button down shirt. Swap the winter favourite for a piece that’s just as crisp and polished, but that works better for the season. We like wearing a boyfriend style shirt with jeans or cropped pants and red lipstick.</li></ul><h2>This Season’s Best Spring Outfit Ideas</h2><p>For spring 2017 it’s all about mixing and matching trends and breaking the rules to find something that works for you. Here are some of our favourite outfit combinations:</p><ul><li>Sweater and midi skirt. It’s not quite the end of sweater weather, so don’t pack your knits away yet; but instead of wearing it with jeans, try a midi skirt instead. The polished silhouette will make your outfit look just that little bit more elegant; finish the outfit with heels and you’re good to go.</li><li>Cropped jeans and mules. It’s the thinking lady’s perfect pairing. Cropped jeans show off the ankles, while classy mules make the outfit look more polished. It’s perfect for a night out.</li><li>Denim on denim. This combination used to be strictly off limits, but like we said earlier, the rules have gone out the window. We like to wear a denim button down shirt with vintage denim flares, topped off with a leather jacket to break it up.</li><li>An off the shoulder top and jeans. See a trend here? It’s all about dressing up our favourite off duty pieces with something more ladylike, and a feminine off the shoulder top is a great way to make jeans more sophisticated.</li></ul><p>What are you planning to wear for spring? We’d love to know if you have your own spring essentials or how you’re updating old outfits for the season.</p><p>Featured photo:</p><p><a href=\"http://emilietommerberg.com/2017/02/28/silk/\"><strong>Amy Jackson</strong></a>&nbsp;is wearing a white cotton blend ruffle top with distressed jeans, a leather bag, and white pointed toe heels.</p><p>Top: Club Monaco, Jeans: BlankNYC, Heels: Zara, Handbag: Celine, Sunglasses: Karen Walker c/0, Watch: Larsson &amp; Jennings&nbsp;</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2017/04/Spring-Outfits-50-540x0.jpg\" alt=\"Christine Andrew wears a pair of ripped denim jeans, rolled at the ankle, paired with a white V neck tee and a blush pink coat and sneakers. These neutral, calming tones are perfect for spring mornings. Brands not specified.\"></figure><p><a href=\"https://www.instagram.com/p/BS6s5vnBOSv/\"><strong>Christine Andrew</strong></a>&nbsp;&nbsp;wears a pair of ripped denim jeans, rolled at the ankle, paired with a white V neck tee and a blush pink coat and sneakers. These neutral, calming tones are perfect for spring mornings.&nbsp;</p><p>Brands not specified.&nbsp;</p>",
+      "day": "20-06-2021"
+    },
+    {
+      "id": 24592,
+      "title": "Style Tips on How to Wear Leggings – Outfits",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2FLegging-Outfits-1-600x825.jpeg?alt=media&token=61928d75-ee13-4f60-aa9b-0d3553ecb53d",
+      "author": "Amelia Kinney",
+      "introduce": "For the modern woman, the comfort and versatility of leggings cannot be underestimated. One of the few items in our wardrobe able to transition from office to gym to cocktails...",
+      "content": "<h2>Hottest Trends In Leggings Today</h2><p>We can thank the 1980’s for popularizing cotton and spandex leggings with the rise of activewear. Stretch pants today are much more sophisticated, but still feel super casual. These hot new styles of leggings will keep you looking fresh.</p><ul><li>Leather Leggings — Remember Olivia Newton-John in Grease? She wears high-waisted leather leggings in that fateful musical number to show John Travolta that she can be more “street”. Now, leather leggings are among the royalty of streetwear, serving as a more comfortable version of leather pants. Look for leather leggings with moto-pant details.</li><li>Athleisure – Lovers of casual athletic wear, lycra and spandex have been seriously upgraded with new styles that show off your curves with sporty colour-contrasting accents and cut-outs.</li><li>Printed — Printed leggings in high quality fabrics are taking over the market with fun patterns in tie dyes, florals, animal prints and geometrics.</li><li>Embellished — Keep an eye out for embellished styles of leggings that include cool details like pockets, buttons, knee patches, studs and zippers.</li><li>Pajama – Loungewear has come a long way and now can be worn in a variety of casual contexts. Thermal leggings in creamy, soft florals look adorable with sweaters, tank tops and boots.</li></ul><h2>Best Outfits With Classic Black Leggings</h2><p>Black leggings are super flattering and transition easily from day to evening. Chances are, you own more than a few pairs. Leather leggings are the new basic black pant and provide a dose of high fashion to any look.</p><ul><li>Neutral shades – Black leggings look cozy with soft oversized sweaters in neutral shades like charcoal grey or oatmeal. Take this easy look to the streets with a pair leather ankle boots.</li><li>Leather jacket – Transform basic black leggings by throwing on a leather jacket and hightop sneakers.</li><li>Tunic – Leggings are the perfect match for an oversized shirt or tunic. Wear a lux button-up tunic with leggings and metallic ballet flats for a low-key office look.</li><li>Printed tops – The black monochromatic leggings are perfectly set off by a plaid or printed blouse.</li></ul><h2>How to Wear Leggings In Every Season</h2><p>Delight in the ease and style of leggings in every season with these fashionable combinations. These looks are current and will keep you on point all year-round.</p><ul><li>Summer – Pair a softly coloured cropped tank top with a pair of three-quarter length floral leggings and strappy sandals.</li><li>Spring – The fresh spring air is perfectly complemented with athleisure. Look stylish in whatever type of running around you’re doing. Combine flowy tank tops, cute bralettes and sporty leggings in a range of crisp colours. Top the look off with your coolest sneakers.</li><li>Fall – As you begin to pile on layers, incorporate leggings in black, grey, navy or rich shades of red wine or burgundy. Add chunky knee-high knit socks and booties.</li><li>Winter – During winter, add thigh high boots with leather leggings and a trench coat for a chic and sophisticated look that will withstand the cold. Leggings can also be worn in winter with a sweater dress.</li></ul><p>Where are you wearing your leggings? Are you heading out on a major family backpacking trip or meeting your girlfriends for a late night snack at the neighbourhood diner? Let us know your favourite ways and places to wear leggings. Check out the ways our bloggers rock black and leather leggings.</p><p>Featured Photo:&nbsp;<a href=\"http://www.hellofashionblog.com/2016/03/3-ways-to-wear-your-favorite-sneakers-from-day-to-night.html\"><strong>Christine Andrew</strong></a> is wearing aviator sunglasses, three-quarter length black leggings, a quilted black cross-body bag and white sneakers with blue accents.</p><p>Jacket: AllSaints, Pants: L’Agence, Shoes: Puma, Purse: Chanel.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2017/03/Legging-Outfits-25-600x0.jpg\" alt=\"Arielle Nachami is wearing a chunky grey knit sweater, black leggings, retro sunglasses, leather and fur loafers and carrying a black leather tote. Leggings: Solow, Sweater: NastyGal, Shoes: Gucci, Bag: Celine. Sunglasses: Ray Ban\"></figure><p><br>&nbsp;</p>",
+      "day": "20-06-2021"
+    },
+    {
+      "id": 667850,
+      "title": "Winter Style: The Fashion Trends 2016-2017",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fwinter_outfit_-_julia_toivola_blog_8_of_20-600x900.jpeg?alt=media&token=598de073-ec95-4a8e-85d7-f62c57ea6d5d",
+      "author": "Amelia Kinney",
+      "introduce": "Hot spiced drinks, comfy sweaters and crisp frosty mornings– this winter season is all about stepping out in luxurious textures, bold colours and time-honoured silhouettes...",
+      "content": "<h2>Winter Trends &nbsp;2016/2017</h2><p>Historically, fashion has provided an avenue for women to express their personal aesthetic. In today’s world of infinite choices, this is more relevant than ever. &nbsp;This year, winter style embraces experimenting with different personas, classic feminine figures and archetypes. Whether your flannel is a throwback to a simpler time, or you prefer to lounge in your best furs, this season’s fashion is sure to inspire new attitudes and perspectives.</p><ul><li>Oversized trench coats – Get swallowed up in a big, cozy trench for your daily go-to street look. Lighter neutrals such as taupe, beige, cream and heather grey are especially popular.</li><li>Cord – The scene is set with cord jackets, vests and skirts in navy blue, camel, mustard, burgundy and coffee brown. Black cord trousers are the perfect departure from your standard skinny jeans.</li><li>Shoulder Cut-Outs – We love the cut-out trend for its unexpected and playful sensuality. This winter season, try a variety of sweaters and dresses with shoulder and arm cut-outs, including leather and button details.</li><li>Velvet – Velvet adds timeless elegance to any outfit. We especially love velvet in midnight blue.</li><li>Military Chic – A modern twist on olive green and navy blue jackets feature fun details like high collars, structured shoulders, patches, zippers and metallic buttons.</li><li>80’s Fashion – This style is all about volume, bold patterns, bright colours and off-the-shoulder ruffles. Channel your Hilary from Fresh Prince with pointed fuchsia pumps and suit jackets with exaggerated collars and lapels.</li><li>Girlish Shapes – Pleats, ruffles, lace, and translucent overlays abound. This trend looks phenomenal in a long pleated silk skirt, or a sheer updated version of the button-up collared shirt.</li><li>Appliques and Embroidery – The thick textiles of the cold season are just the thing to carry heavier details like appliques and embroidery, in romantic swirling florals, sequins and metallics.</li></ul><h2>Winter Style: Must-have Winter Fashion Accessories</h2><p>During the dark days of winter, you may be tempted to throw on whatever will get you through a rainy day. Spruce up your look by adding these warm and practical accessories. Choose bright, colourful styles to add a pop of colour and upgrade your look in flash.</p><ul><li>Over-Sized Scarf – A big, soft scarf can double as a shawl or a poncho, and a luxurious cashmere blend can be dressed up or down.</li><li>Over-the-Knee Boots – Definitely one of the hottest trends in streetwear right now, namely for their versatility. Try a pair in slate grey or deep terracotta over skinny jeans or leggings.</li><li>Embellished Hair Ties – Chances are, you ditched your scrunchie ages ago. Sleek hair ties of today feature velvet, floral, rhinestones, feathers and sequins.</li><li>Leather – Accessories like industrial style belts, cuffs and chokers give a shoutout to the menswear trend, and provide a classic edge to any day or night fashion.</li><li>Ankle Booties – High-heeled ankle booties with fringe, studs, chains and other metallic details are glamourous and low-key cool.</li><li>Thigh-High Stockings – Make stockings your new cold-weather best friend. Over leggings, tights, jeans or bare legs, these knit socks are charming and feminine.</li><li>Beanies – The beanie is no longer reserved for laid back and punk styles. These oversized knit hats are everywhere, in a variety of shades and styles to complement any outfit and keep your hair climate-controlled.</li></ul><h2>Winter Outfit Ideas</h2><p>On especially cold mornings, it can be super hard to drag yourself out of bed. Combat a case of the blahs by treating your wonderful self. This can take the form of a pear chocolate breakfast muffin with honey butter… Or an especially cute outfit. Looking good can have a tremendous benefit to your mood, and give you the radiant glow of confidence. Here are some of our favourite styles to look and feel brilliant.</p><ul><li>Pleated Skirt – A pleated skirt, long or short, pairs well with a sweater or cardigan, and can be dressed up or down with sneakers or patent leather sling-backs.</li><li>Classic Sweatshirt – Praise the comfortable cotton crewneck for its moment of versatility in the fashion world. Many new styles incorporate lace and leather details. Wear it with skinny jeans and over-the-knee boots.</li><li>Sweater and Miniskirt – An over-sized knit sweater looks playful and comfortable over a denim, leather or cord miniskirt. Add coloured tights and high-heeled boots for date night or drinks with the girls.</li><li>Night Out – An easy and casual look for dinner and drinks is a fitted mini dress with tights, a moto jacket and a big scarf or shawl. Add a pair of studded ankle booties.</li><li>Athleisure – Thank goodness we can get away with athletic wear outside of the gym. Float from yoga class to brunch in crimson leggings, a slouchy black beanie, stockings, furry boots and a soft grey sweater with shoulder cut-outs.</li><li>Holiday Cocktail Party – A simple velvet minidress in burgundy or midnight blue is adorable and perfect with patterned tights. Pair it with an embellished suit jacket.</li></ul><p>So, this winter, as you’re wrapping twinkle lights around a blue spruce and wondering how to stay warm on your walk to work or night of barhopping, keep our ideas in mind. Honestly, we’re feeling like anything goes and this is no time to play it safe. What’s your favourite trend this season and how do you make it yours?</p><p>Featured Photo:&nbsp;<a href=\"http://www.cosmopolitan.fi/blogit/julia-toivola/ensilumi\"><strong>Julia Toivola</strong></a> steps out in leather moto pants, vinyl statement booties and a big, soft grey trenchcoat. This look is warm and versatile, topped off by a snowy white beanie.</p><p>Coat: The Lab, Pants: Tommy Hilfiger x Gigi, Hat: Cubus, Sunglasses: Céline, Shirt: Lindez, Gloves: Zara, Shoes: H&amp;M</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-23-600x0.jpg\" alt=\"Katarzyna Tusk has created a stylish and sophisticated winter style here, keeping colours neutral and subtle. We love the combination of a chunky scarf with a faux fur coat; it makes for the perfect winter look. Scarf: ACNE, Trousers: Mango, Coat: MLE Colection, Shoes: Zara.\"></figure><p><a href=\"http://makelifeeasier.pl/moda-i-styl/look-of-the-day-152/\"><strong>Katarzyna Tusk</strong></a> has created a stylish and sophisticated winter style here, keeping colours neutral and subtle. We love the combination of a chunky scarf with a faux fur coat; it makes for the perfect winter look.</p><p>Scarf: ACNE, Trousers: Mango, Coat: MLE Colection, Shoes: Zara.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-25-e1488035274776-700x0.jpg\" alt=\"Winter Style, 8\"></figure><p><a href=\"http://www.ohhcouture.com/2016/12/black-white-paris/\"><strong>Leonie Sophie</strong></a> is ready for winter in every sense in this gorgeous outfit, pairing a cream faux sheepskin coat with skinny black jeans and a bobble hat for that authentic festive touch. We love the contrasting chic of this style!</p><p>Coat: Andrew Marc, Jeans: Mavi, Sweater: H&amp;M, Shoes: Shcutz.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-39-e1488035145555-700x0.jpg\" alt=\"Winter Style, 4\"></figure><p><a href=\"http://lydiaelisemillen.com/2016/12/how-to-style-shearlingsherpa-this-winter/\"><strong>Lydia Lise Millen</strong></a> is absolutely the essence of winter chic in this gorgeous white outfit, consisting of a faux fur coat and a burberry scarf. Wear a coat such as this with leather leggings and boots to add an edgy side to the look!</p><p>Coat/Knit: Abercrombie, Bag: Givenchy, Shoes: Gianvito Rossi, Scarf: Burberry</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-24-e1488035300170-700x0.jpg\" alt=\"Winter Style, 9\"></figure><p><a href=\"http://www.polienne.com/?p=32269\"><strong>Paulien Riemis</strong></a> is cute and casual in this stylish winter look, consisting of rolled denim jeans, a double breasted navy overcoat, and a pair of striking patent leather boots. Tee: H&amp;M, Cardigan/Boots: Zara, Coat: River Island, Bag: Pinko.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-22-540x0.jpg\" alt=\"Winter Style 11\"></figure><p>We are loving&nbsp;<a href=\"https://www.instagram.com/emmahill/\"><strong>Emma Hill’</strong></a>s winter aesthetic, which simply screams&nbsp;‘classic elegance’! Pair a sweater dress with leather leggings, boots, and an oversized scarf to give this look a go!</p><p>Dress: Like To Know It.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-21-600x0.jpg\" alt=\"Winter Style 12\"></figure><p>Another simple winter style is demonstrated by&nbsp;<a href=\"https://www.instagram.com/pepamack/\"><strong>Petra&nbsp;</strong></a>here, who has stripped her look back to basics, in a beige sweater, black jeans, and a dark overcoat to&nbsp;<a href=\"http://us.asos.com/ASOS/ASOS-3-Pack-Contrast-Edge-Pop-Socks/Prod/pgeproduct.aspx?iid=5070191&amp;istCompanyId=467dd896-9a62-42c2-84d9-be2d13921f66&amp;istItemId=rrwmaqapr&amp;istBid=t&amp;channelref=product+search&amp;mk=abc\"><strong>contrast&nbsp;white&nbsp;socks</strong></a>&nbsp;and sneakers. We love the contrasting colours of this style.</p><p>Sweater: H&amp;M, Coat: All Saints, Sneakers: Adidas.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-19-e1488035412622-700x0.jpg\" alt=\"Winter Style 14\"></figure><p><a href=\"http://www.brooklynblonde.com/2016/12/camel-classics.html\"><strong>Helena Glazer</strong></a>&nbsp;kills it in this cute winter style, consisting of distressed denim jeans, an oversized camel coat, and spike heeled booties for that perfect edgy feel!</p><p>Coat: Mackage, Bodysuit: Only Hearts, Denim: Levis, Belt: Saint Laurent, Booties: Louboutin.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-38-e1488035205600-600x0.jpg\" alt=\"Winter Style, 5\"></figure><p><a href=\"http://www.lesbabiolesdezoe.com/lesfringues/comfy\"><strong>Zoé Alalouch</strong></a> has epitomised the ‘casual sophistication’ look here, rocking a pair of distressed denim jeans and a boyfriend style maxi coat. We recommend wearing this look with an oversized chunky scarf like Zoe for that winter feel! Gilet: American Vintage, Top: H&amp;M, Scarf: American Vintage, Jeans: Rachel Mango, Shoes: Jonak.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-16-600x0.jpg\" alt=\"Winter Style 15\"></figure><p><a href=\"https://www.instagram.com/lolariostyle/\"><strong>Sasha Simon</strong></a>&nbsp;keeps it casual in this gorgeously simple winter outfit, consisting of skinny jeans, a classic camel coat, and a pair of over the knee boots in a velvety style! Pair this look with a leather bag to steal Sasha’s winter aesthetic.</p><p>Brands not specified.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-15-670x0.jpg\" alt=\"Winter Style 16\"></figure><p>You cannot go wrong with a beanie! A fact proven by&nbsp;<a href=\"http://www.extrapetite.com/2016/11/cyber-monday-steals-deals-2016.html\"><strong>Jean Wang</strong></a>&nbsp;in this adorable winter style, consisting of a tweed overcoat, worn with over the knee boots and tights for a cute seasonal look.</p><p>Coat: Chicwish, Hat: J Crew, Boots: Charles David.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-14-e1488035451574-700x0.jpg\" alt=\"Winter Style 17\"></figure><p><a href=\"http://tsangtastic.com/2016/12/originals.html\"><strong>Jenny Tsang</strong></a>&nbsp;keeps it sleek, casual and authentic in this smart winter style consisting of mom jeans, a grey sweater and a tomboy style maxi coat. We love the charmingly boyish nature of this look!</p><p>Coat: The&nbsp;<a href=\"http://shop.nordstrom.com/S/4534532?cm_mmc=Linkshare-_-datafeed-_-Women:Tops:Blouse_Top-_-5301412\"><strong>Fifth&nbsp;Label</strong></a>, Top: Banana Republic, Jeans: ReDone.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-13-e1488035485653-700x0.jpg\" alt=\"Winter Style 12\"></figure><p><a href=\"http://www.fashionedchic.com/2016/12/10/holiday-party-black-and-berry/\"><strong>Erica Hoida</strong></a>&nbsp;rocks a classic winter colour scheme here, in a gorgeously rich plum overcoat and black leather leggings. This is a style which is ideal for everyday winter wear, as not only is it warm, but it also oozes glamour!</p><p>Jacke/Camisolet: Sezane, Vest: Style Stalker,&nbsp;Pants: Helumt Lang,&nbsp;Shoes: Sole Society.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-12-650x0.jpg\" alt=\"Winter Style 18\"></figure><p><a href=\"http://www.miamiamine.com/2015/10/faux-fur-boots.html\"><strong>Maria Vizuete</strong></a>&nbsp;is wearing one of this winter’s hottest new trends; the faux fur vest! This black piece adds a whole new dimension of glamour to Maria’s casual everyday style, and we love it!</p><p>Vest/Jeans: Topshop, Top: Banana Republic, Boots: Sam Edelman, Bag: Louis Vuitton.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-11-682x0.jpg\" alt=\"Winter Style 19\"></figure><p><a href=\"http://www.lacouleurdumoment.com/looks-like-london/\"><strong>Sofya Benzakour</strong></a>&nbsp;keeps it casual and sleek in a predominantly monochrome outfit consisting of a pair of black jeans, a knitted sweater, and a grey blazer. Wear this look with leather boots to capture Sofya’s street chic style!</p><p>Vest: Reiko, Trousers: River Island, Bag: Monki.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-10-e1488035523781-700x0.jpg\" alt=\"Winter Style 19\"></figure><p><a href=\"http://fake-leather.com/love-simplicity/\"><strong>Adriana Gastélum</strong></a>&nbsp;is a winter vision in a dark, sophisticated outfit consisting of a longline slitted top, black underskirt, and a pair of sexy over the knee suede boots. Wear this look with a pair of shades to steal this style!</p><p>Dress:Topshop, Boots: Chinese Laundry, Bag: Saint Laurent.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-8-e1488035553663-700x0.jpg\" alt=\"Winter Style 20\"></figure><p>Nothing screams winter chic more than a faux fur coat!&nbsp;<a href=\"http://emilietommerberg.com/2016/11/30/pa-vei-til-varmen/\"><strong>Emilie Tømmerberg</strong></a>&nbsp;looks a dream in this gorgeous camel piece, worn with chunky black laced boots and tights for an edgy take on a classic look!</p><p>Brands not specified.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-7-600x0.jpg\" alt=\"Winter Style 20\"></figure><p><a href=\"http://www.lesbabiolesdezoe.com/lesfringues/normal-day\"><strong>Zoé Alalouch</strong></a>&nbsp;looks stellar in this gorgeous winter style, consisting of black denim jeans, a light blue jacket, and an oversized scarf for that classic christmas feel. Wear this look with leather boots to steal Zoe’s style.</p><p>Vest: Vila, Top: Lola Mademoiselle D, Jeans: Paige, Boots: Windsor Smith.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-6-e1488035616776-700x0.jpg\" alt=\"Winter Style 22\"></figure><p><a href=\"http://proseccoandplaid.com/2016/12/living-layers-one-look-two-ways.html\"><strong>Jess Ann Kirby</strong></a>&nbsp;is the ultimate image of winter glamour in this outfit, consisting of grey marl leggings and a matching top, a leather cross body bag, and a gorgeous coat with a faux fur collar for that warmth you crave.</p><p>Brands not specified.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-5-e1488035653805-700x0.jpg\" alt=\"Winter Style 22\"></figure><p><a href=\"http://junesixtyfive.com/looks/blog-mode-pull-lacets/\"><strong>Federica L.</strong></a>&nbsp;stuns us in this utterly captivating faux fur coat, worn with a cute knit top and leather leggings for a simplistic but glamorous winter style. We love the striking nature of this coat; an absolute must-have this season.</p><p>Outfit: Chicwish.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-20-e1488035382173-700x0.jpg\" alt=\"Winter Style 13\"></figure><p><a href=\"http://weronikazalazinska.net/2016/12/13/outside-the-louvre/\"><strong>Weronika Załazińska&nbsp;</strong></a>is rocking this daring winter style, in a striking faux fur coat and a pair of leather trousers which look totally hardcore! Wear a look like this with a white shirt and leather boots to steal Weronika’s awesome winter style.</p><p>Coat/Shirt: NA-KD, Trousers: Zara, Boots: Stradivarius.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-3-768x0.jpg\" alt=\"Winter Style 24\"></figure><p><a href=\"http://makelifeeasier.pl/moda/look-of-the-day-146/\"><strong>Katarzyna Tusk</strong></a>&nbsp;is rocking a classic winter style here, in a thick grey coat and a gorgeous chunky knit scarf to match. Wear a look such as this with skinny jeans or leggings and thigh high boots to get that sexy edge!</p><p>Leggings/Boots: Mango, Purse: Zara, Coat: Answear.com.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-2-683x0.jpg\" alt=\"Winter Style 25\"></figure><p><a href=\"http://akerstromsblog.com/2016/12/01/city-vibes/\"><strong>Felicia Åkerström</strong></a>&nbsp;keeps it fairly casual in this cosy winter style, consisting of a white polo neck sweater, denim jeans, and a cute black overcoat. Wear a look such as this when you want to be comfortable, classy, and keep warm!</p><p>Coat: Lioness,&nbsp;Denim:&nbsp;<a href=\"http://us.asos.com/\"><strong>Asos</strong></a>,&nbsp;Boots: Plt.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Winter-Outfits-1-e1488035717888-700x0.jpg\" alt=\"Winter Style 26\"></figure><p><a href=\"http://kenzas.se/2016/11/30/wednesday-23/\"><strong>Kenza Zouiten</strong></a>&nbsp;keeps it smart casual in this gorgeous monochrome style, consisting of a striped tee, shearling suede jacket, and a pair of simple leggings. Wear this look with a cross body bag to steal Kenza’s style.</p><p>Jacket: Acne Studios, Tights: Ginatricot, Sweater: Make Way, Bag: Chanel, Boots: Anine Bing.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/blog-mode-id%C3%A9e-tenue-manteau-fourrure-1440x2160-e1488035857129-700x0.jpg\" alt=\"Winter Style 28\"></figure><p>A lace undershirt, sheer black tights and layers of jewelry make this look cool and sensual. Black over-the-knee boots and a fur coat are essential statement pieces to incorporate into any winter wardrobe. Via&nbsp;<a href=\"http://junesixtyfive.com/looks/blog-mode-look-cuissarde-collants/\"><strong>Federica L.</strong></a></p><p>Sweater, Skirt &amp; Jacket: Chicwish, Shirt: Stradivarius, Boots: H&amp;M, Necklaces: Lily’s Creations, Maria Pascual, Rings: Lily’s Creations, Be Maad, Thomas Sabo, Watch: Klarf</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Sem-t%C3%ADtulo-553x0.png\" alt=\"Winter Style 30\"></figure><p>This timeless style emphasizes clean lines and pure colours, making&nbsp;<a href=\"http://www.fashioninflux.co.uk/2016/11/great-things-about-getting-older.html\"><strong>Lydia</strong></a>&nbsp;look polished and classic.</p><p>Brands: Unspecified</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/anine-bing-denim-chunky-knit-scarf-on-sale-black-friday-cyber-monday-chanel-bag-4-e1488035941574-700x0.jpg\" alt=\"Winter Style 31\"></figure><p><a href=\"http://www.aninesworld.com/layer-on-the-knits/\"><strong>Anine Bing</strong></a>&nbsp;opts for a chunky salt-and-pepper speckled knit scarf and a little red bag for a pop of colour. Black skinny jeans with worn-through knees are the go-to streetwear pants of the moment.</p><p>Scarf, Jeans, Boots: Anine Bing, Bag: Chanel</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/TDD-Tuesday-5465-e1488035974633-700x0.jpg\" alt=\"Winter Style 32\"></figure><p>In muted beige and taupe hues,&nbsp;<a href=\"http://www.thedarlingdetail.com/over-the-knee-2/\"><strong>Jessi Afshin</strong></a>&nbsp;looks precious in a baggy sweater over leggings, highlighted by the sunny red and creamy yellow shades of her over-sized scarf.</p><p>Shirt: Dreamers by Debut, Scarf: Free People, Jeans: Frame, Boots: Steve Madden, Bag:&nbsp;<a href=\"http://shop.nordstrom.com/sr?keyword=rebecca+minkoff\"><strong>Rebecca&nbsp;Minkoff</strong></a>, Sunglasses: Quay Australia x&nbsp;<a href=\"http://shop.nordstrom.com/S/4438883?cm_mmc=Linkshare-_-datafeed-_-Women:Eyewear:Sunglasses-_-5228827\"><strong>Desi&nbsp;Perkins</strong></a>, Watch:&nbsp;Larsson &amp; Jennings</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Blog-mode-manteau-oversize-hm-1440x2160-e1488036010384-700x0.jpg\" alt=\"Winter Style 32\"></figure><p>An effortless city style, this over-sized taupe trench complements distressed boyfriend style jeans and white sneakers. Casual tousled hair makes this look low-key and approachable. Via&nbsp;<a href=\"http://junesixtyfive.com/looks/blog-mode-manteau-camel-oversize/\"><strong>Federica L.</strong></a></p><p>Coat: H&amp;M, Sweater &amp; Shoes:&nbsp;<a href=\"http://missguided.co.uk/\"><strong>Missguided</strong></a>, Jeans: Zara, Rings: Lily’s Creations, Cross Model, Be Maad, Thomas Sabo, Earrings: Lily’s Creations</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/14971610_10158211782035355_857585053_o-e1488034582384-700x0.jpg\" alt=\"Winter Style 30\"></figure><p><a href=\"http://www.leneorvik.no/2016/11/07/det-overfladiske/\"><strong>Lene Orvik</strong></a>&nbsp;is sweet and Sunday chic in comfy boots and a creamy tunic sweater. A perfect example of athletic wear as lounge wear, these white leggings are versatile and adorable.</p><p>Brands: Unspecified</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/1.1-e1488034712831-700x0.jpg\" alt=\"Winter Style 34\"></figure><p><a href=\"http://www.hellofashionblog.com/2016/11/3-ways-to-style-your-off-the-shoulder-sweater.html\"><strong>Christine Andrew</strong></a>&nbsp;looks stunning in this simple, refined style. Sleek over-the-knee boots, classic denim and cold shoulders accentuate her slim figure.</p><p>Sweater, Jeans &amp; Sunglasses: Ily Couture, Boots:&nbsp;<a href=\"http://shop.nordstrom.com/sr?keyword=stuart+weitzman\"><strong>Stuart&nbsp;Weitzman</strong></a>, Bag: M2Malletier</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/HHH-553x0.png\" alt=\"Winter Style 37\"></figure><p>A black outfit of leather and denim is complemented by nude&nbsp;accessories. The volume of the turtleneck is balanced by her topknot bun hairstyle. Via&nbsp;<a href=\"http://www.brooklynblonde.com/2016/11/the-perfect-leather.html\"><strong>Helena Glazer</strong></a>.</p><p>Jacket: Mackage, Sweater: Banana Republic, Pants: Rag &amp; Bone, Shoes: Aquazzura, Bag and Sunglasses: Céline</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/GGG-530x0.png\" alt=\"Winter Style 38\"></figure><p>Deep earth tones provide a sensational contrast to this luxurious white cashmere coat. Abundant silver jewelry plays up the sophisticated boho vibe of this style. Via&nbsp;<a href=\"http://www.fashionedchic.com/2016/11/15/outerwear-classics-burberry/\"><strong>Erica Hoida</strong></a>.</p><p>Scarf and Coat: Burberry</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/DSC9990_1500px-848x0.jpg\" alt=\"Winter Style 39\"></figure><p><a href=\"http://www.rebelrosefashion.com/2016/11/the-perfect-maxi-coat.html\"><strong>Patricia Exner</strong></a>&nbsp;is classic and sophisticated in a long olive green jacket and belted dress. We love the subtle pop of colour provided by her turquoise earrings.</p><p>Coat and Dress: Ivy &amp; Oak</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/Cashmere-poncho-leather-pants-ankle-boots-coach-bag-Jess-Ann-Kirby-e1488036191916-700x0.jpg\" alt=\"Winter Style 40\"></figure><p><a href=\"http://proseccoandplaid.com/2016/11/5-cashmere-capes-every-budget.html\"><strong>Jess Ann Kirby</strong></a>&nbsp;sports leather leggings with olive suede booties. This cashmere oatmeal-coloured cape is a beautiful and distinct piece for winter.</p><p>Cape:&nbsp;<a href=\"http://shop.nordstrom.com/S/4521600?cm_mmc=Linkshare-_-datafeed-_-Women:Tops:Sweater-_-5292497\"><strong>Autumn&nbsp;Cashmere</strong></a>, Pants: Paige, Turtleneck: BP., Boots: Marc Fisher LTD, Watch:&nbsp;Larsson &amp; Jennings, Bag: Coach 1941</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/FFF-553x0.png\" alt=\"Winter Style 41\"></figure><p><a href=\"http://weworewhat.com/outfits/bagatelle-city/\"><strong>Danielle Bernstein</strong></a>&nbsp;is a vision in charcoal grey and camel. We love the way a simple fitted white tee accentuates the lavish hue of her jacket.</p><p>Jacket: BAGATELLE.CITY</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/12/22836067408_228e67b25b_b-1-670x0.jpg\" alt=\"Winter Style 42\"></figure><p><a href=\"http://www.extrapetite.com/2016/11/shades-of-gray.html\"><strong>Jean Wang</strong></a>&nbsp;chooses slate grey for her winter fashion. The cream of her turtleneck plus black denim gives the right amount of depth and dimension to this generally monochromatic, versatile style.</p><p>Coat: Chicwish, Boots:&nbsp;<a href=\"http://shop.nordstrom.com/sr?keyword=stuart+weitzman\"><strong>Stuart&nbsp;Weitzman</strong></a>, Jeans: J.Brand, Sweater: Banana Republic, Bag: Goyard</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2017/03/Winter-Outfits-45-e1488631451627-700x0.jpg\" alt=\"Helena Glazer keeps it striking and simple here, in a double breasted navy coat, matching cable knit turtleneck sweater, and distressed denim jeans. Wearing heeled boots with this look adds that perfect touch of glamour, while a mini handbag combines the smart and the fabulous. Coat: Slate &amp; Stone ℅, Turtleneck: Banana Republic, Denim: Topshop, Boots: Louboutin, Sunglasses: Fendi, Handbag: Mackage, Belt: Saint Laurent.\"></figure><p><a href=\"http://www.brooklynblonde.com/2017/01/winter-work-day-outfits.html\"><strong>Helena Glazer</strong></a>&nbsp;keeps it striking and simple here, in a double breasted navy coat, matching cable knit turtleneck sweater, and distressed denim jeans. Wearing heeled boots with this look adds that perfect touch of glamour, while a mini handbag combines the smart and the fabulous.&nbsp;</p><p>Coat: Slate &amp; Stone ℅, Turtleneck: Banana Republic, Denim: Topshop, Boots: Louboutin, Sunglasses: Fendi, Handbag: Mackage, Belt: Saint Laurent.</p><ul><li><a href=\"https://www.justthedesign.com/outfits/winter/winter-style/#\"><strong>false</strong></a></li><li><a href=\"https://www.justthedesign.com/outfits/winter/winter-style/#\"><strong>false</strong></a></li></ul><p>&nbsp;</p><p><br>&nbsp;</p>",
+      "day": "20-06-2021"
+    },
+    {
+      "id": 397700,
+      "title": "Style Tips On What To Wear With Your Grey Coat – Grey Coat Outfits",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2FGrey-Coat-Outfits-5-600x900.jpeg?alt=media&token=f83d44a5-0406-407f-9564-f928b1ca1d67",
+      "author": "Amina Mohammed",
+      "introduce": "This winter embrace 50 shades of grey. Treat yourself to a new coat but step outside of the box and opt for a sleek grey color...",
+      "content": "<h2>Give Your Outfit An Edge With Your Bold Grey Coat</h2><p>There are endless coat outfits you can create by incorporating your grey coat. It’s a great color to wear to work, as its smart and professional. For your next day at work, opt for a long line coat and layer it over black culottes. Finish off your look with nude pumps, for the ultimate chic office attire. This look would work with either a black or <a href=\"http://www.justthedesign.com/best/winter-coats/\"><strong>grey coat</strong></a> but the grey will break up your outfit, to stop it from looking too dreary.</p><ul><li>For a casual day out with your friends, pair your light grey coat with jeans, boots and an oversized scarf.</li><li>If you’re getting ready for a date then throw your grey coat over your dress for an elegant outfit.</li><li>For another work outfit, coordinate a black pencil skirt and white shirt with your grey coat. Top off your look with red lipstick, to add a pop of color.</li><li>To add a finishing touch to your outfit belt your coat at the waist.</li></ul><h2>How To Layer Like A Pro</h2><p>Layering is crucial during winter but you don’t want to look like you’re drowning in fabric. Pair your oversized <a href=\"http://www.justthedesign.com/outfits/fall/chic-comfy-sweater-skirt-combos/\"><strong>sweater</strong></a> with leggings or jeans and layer your long grey coat over the top. Complete your outfit with knee-high boots or chunky heels to elongate your legs. If you’re petite, then try picking a coat that is hip length instead of super long. A short grey coat is also flattering when belted to emphasise your waist. Wear it with a skirt or leather pants; this style will give you an hourglass shape for a gorgeous winter coat outfit.</p><ul><li>Layer a slouchy sweater over a white vest and black leather pants, finish off this look with your long grey coat, a beanie hat and combat boots for a stylish but comfortable outfit.</li><li>For a smart, layered look, opt for a blazer coat and wear it over a turtleneck jumper, cigarette pants and add brogues for a chic Parisian-inspired look.</li><li>If you want to dress up for the evening then layer a slip dress with a long cashmere cardigan and your coat for a sexy but cosy outfit.</li></ul><h2>Add A Pop Of Color</h2><p>When styling your grey winter coat add a pop of color to your outfit to add some vibrancy. Red looks fabulous paired with grey and black; team your chunky red sweater with black skinny jeans and finish off your look with your grey coat and leather boots for the ultimate street style.</p><ul><li>If you love accessories then add a pop of color with a bold bag like Gucci’s fuchsia pink one from their recent collection.</li><li>Pair an electric blue dress or top with your light grey coat, which will keep your look neutral.</li><li>If your outfit is monochrome then make a statement with a bright attention grabbing pair of shoes.</li><li>Coordinate your short, light grey winter coat with a blush colored vest or sweater, for a soft, feminine look. Finish off this outfit with a bright silk scarf, which you could even tie around your bag as seen on Tory Burch t satchel bags and the timeless Hermes Birkin.</li></ul><h2>How To Wear A Grey Overcoat Casually</h2><p>With so many of us living such busy lifestyles it’s essential to find ways to feel comfortable yet confident in your style. Dressing casually is becoming easier, with more women embracing flats rather than heels and jeans instead of skirts. There are some smart pieces like your grey overcoat that you can dress down to get more wear out of.</p><ul><li>If you’re running around town, then embrace the sporty aesthetic by wearing a black vest, sports leggings and<a href=\"http://www.justthedesign.com/best/most-popular-cool-new-balance-sneakers-for-girls/\"><strong> sneakers</strong></a> with a cross body bag and your grey overcoat.</li><li>When meeting your friends, you probably want to be comfy so wear a military knit dress with tights and long suede boots, let your coat finish of your outfit.</li><li>If you’re a denim lover, then pair your denim shirt and jeans with your coat and leather boots for a retro casual look.</li></ul><p>Whatever your winter coat style consists of, this season you should give grey a go. You will be surprised at how versatile your grey coat can be. Let us know how you plan on wearing yours.</p><p>The featured photo: <a href=\"http://thevivaluxury.com/2017/01/beverly-hills-backpacking/\"><strong>Annabelle Fleur</strong></a> adds a pop of color to her outfit with her chic, lipstick red Louis Vuitton backpack. She keeps the rest of her outfit casual and neutral.</p><p>Coat: Acne Studios, Bag: Louis Vuitton, Jeans: 3×1, Bodysuit: Protagonist, Shoes: Dorateymur&nbsp;</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2017/04/Grey-Coat-5-564x0.jpg\" alt=\"Ane Hernando is seen in a pair of faded denim jeans, with rip detailing, and rolled at the ankle. This she has then paired with gleaming Adidas sneakers, a navy blue top, and an oversized boyish grey coat. Shoes: Adidas.\"></figure><p><br>&nbsp;</p>",
+      "day": "20-06-2021"
+    },
+    {
+      "id": 645568,
+      "title": "Winter Looks 2021: How To Stay Warm And Still Look Cute And Stylish",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2Fny1-74-1-600x900.jpeg?alt=media&token=d8f6be54-b229-4420-bd40-a47170482dd0",
+      "author": "Annette Lin",
+      "introduce": "If you think it’s hard to dress cute in winter, you’re not the only one. But winter style doesn’t have to mean dressing like a marshmallow...",
+      "content": "<h2>How to Dress Cute in Cold Weather</h2><p>The key to winter fashion is to play with textures and proportion. Here are some ideas on how:</p><ul><li>Balance a warm, but bulky, coat with streamlined leggings that make your legs look slim.</li><li>On the other hand, if you’re wearing chunky snow boots, wear a tailored jacket up top.</li><li>Find a coat that stays close to your body and falls below the knee. Its streamlined silhouette is a practical way to look chic and elegant.</li><li>Use different fabrics for winter style with an edge. While it might not keep you warm, a hint of lace or <a href=\"http://www.justthedesign.com/fashion-trends/clothing/style-tips-how-to-wear-velvet/\"><strong>velvet in winter</strong></a> adds a touch of femininity to traditional sweater fabrics: think a lace skirt under a wool sweater.</li></ul><h2>How to Dress for the Cold Fashionably</h2><p>Winter fashion style is all about layers. Not only do they keep you cozy, they also let you experiment with different pieces. Here are a few layering tips to inspire you:</p><ul><li>When it comes to fashion, it’s okay to break the rules. If it’s not too cold, you can play into the current ’90s trend by wearing denim on denim. Our favorite tip: try contrasting dark and light colored denim.</li><li>One of 2017’s biggest trends is the turtleneck, and for extra warmth, it pairs well with a chunky sweater. Make sure the turtleneck is slim-fitting to avoid extra bulk.</li><li>Don’t be afraid to play with color. Sure, black on black on black matches, but what about different tones of pink or white? A grey sweater under a <a href=\"http://www.justthedesign.com/outfits/winter/style-tips-wear-grey-coat-grey-coat-outfits/\"><strong>grey coat</strong></a> can look particularly elegant. It can also be fun to play with different combinations.</li><li>Layer up in wool or cashmere if you can. They might be more expensive, but they’re so light and warm they should definitely be on your winter fashion must-have list.</li></ul><h2>Cold Weather Fashion Tips</h2><p>The biggest winter fashion tip is to not forget your accessories. Not only do they stop the warmth from escaping your body, they’re also a great way to add a pop to your outfit. Here are some of our favorite ways to wear them:</p><ul><li>Hats keep our heads warm, and while a beanie is traditional cold weather gear, you shouldn’t be afraid to experiment with other styles. A wool fedora always looks classy, or you could try a baseball cap to add street edge to your winter fashion.</li><li>A statement scarf is an easy way to brighten up a plain winter outfit. Bold patterns, bright colors and cheeky prints are a good place to start.</li><li>Gloves will keep your hands warm, but do you want elegant, ’50s-style leather gloves or a more sporty ski style? Either way, they should be an essential part of your outfit.</li><li>Just like a scarf, you can also use your bag to make a quirky fashion statement. Pick something in a contrasting color to make it stand out.</li></ul><p>Whether it’s snowing or just plain cold, we want to know how you’re staying warm.</p><p>Featured Photo: It may be winter in the city, but <a href=\"http://fashionjackson.com/nyfw-winter-in-new-york-city/\"><strong>Amy Jackson</strong></a> knows how to add some warmth, via a rust colored coat.</p><p>Coat: Zara, Sweater: Ann Taylor, Pants: Zara, Booties: H&amp;M, Handbag: Gucci, Sunglasses: Celine.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2017/03/Winter-Outfits-46-564x0.jpg\" alt=\"Helena Glazer is seen here in a pair of striking thigh high boots, worn over skinny denim jeans with a statement belt to create a sexy, chic, winter style. She combines these pieces with an oversized beige scarf and black cropped overcoat. Brands not specified.\"></figure><p><br>&nbsp;</p>",
+      "day": "20-06-2021"
+    },
+    {
+      "id": 415060,
+      "title": "Doing The Choker Trend The Right Way In 2021 – Outfits & Ideas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2FChoker-Trend-26-600x900.jpeg?alt=media&token=befdd5e0-a6ab-4a6e-bdd9-b28a2a374496",
+      "author": "Amelia Kinney",
+      "introduce": "A timeless feminine symbol, lately the choker necklace is seeing a serious revival. One of the signature styles of 2021...",
+      "content": "<h2>Should I Wear A Choker?</h2><p>An iconic accessory throughout the ages, chokers bring us visions of Disney princesses and the casual chic of 90’s grunge. Today, we’re seeing countless styles, from the extravagant floral jewels of Oscar de la Renta to the fearless gothic pendants of Fenty x Puma by Rihanna. Whether transforming a simple outfit or adding an elegant detail, this accessory does it all.</p><ul><li>Chokers enhance your natural beauty by accentuating the structure of your jaw, cheeks and collar bones. Experiment with different widths to find the styles to best complement your features.</li><li>Go from office to cocktail hour by layering more mixed-media pieces over your simple black choker.</li><li>Chokers give new life to old treasures from your jewelry box. Layer with other lengths of necklaces or play around by attaching different pendants and charms.</li><li>If you’re a lover of fabrics and textiles, put your own DIY spin on this trend by cutting an old silk scarf lengthwise, or re-fashioning a bandana.</li><li>Embrace the raw crystal and gem trend. Many styles of chokers incorporate crystals, or slide on your own teardrop shaped quartz pendant.</li></ul><h2>What To Wear With A Black Choker</h2><p>A classic black choker is a great place to start, and can easily become your new daily staple. Instantly transform a plain black choker into a high-fashion statement by adding your own pendant. From day to night, we see black chokers in every context. Here are some of our favorites.</p><ul><li>Black Shoelace Choker: Wrapped around two or three times with a small bow, pair the casual black shoelace choker with a stone-washed jean jacket, Vans and a <a href=\"http://www.justthedesign.com/the-plaid-trend-is-everywhere/\"><strong>plaid</strong></a></li><li>Black Velvet Choker: Black velvet turns your party dress into a holiday treat, and looks especially luxurious with jewel tones like emerald or ruby.</li><li>Black and Lavender: Pair a black choker with a breezy blouse in a floral shade of lilac, lavender or orchid. Play up this cool contrast of hard and soft by adding a black <a href=\"http://www.justthedesign.com/rev-up-your-wardrobe-with-these-leather-jacket-outfits/\"><strong>leather jacket</strong></a>.</li><li>Black and White: For a sophisticated and modern look, wear a slim black choker with a creamy ivory blouse or simple white tee.</li></ul><h2>Choker Outfit Ideas</h2><p>No matter your personal style, a choker is sure to complement your coveted wardrobe. The trick is to find the right proportions. During the colder seasons, a thick choker can serve as an extension of your scarf or high-collared jacket or, wear it over a turtleneck. Balance a plunging neckline, deep v-neck or off-the-shoulder blouse with multi-wrap or layered style.</p><ul><li>Layering lots of mixed-media pieces is so trendy right now. Choose pieces with shells, beads and gems to compliment the relaxed sensuality and low neckline of a nude or earth-toned <a href=\"http://www.justthedesign.com/fashion-trends/clothing/wear-slip-dress-trend-confidence/\"><strong>slip dress</strong></a>.</li><li>Large metallic cuff chokers are high-fashion warrior chic. For a night out, couple this bold accessory with a black strapless dress and sleek ponytail.</li><li>A leather belt-style choker is an ultra-modern twist on the utility trend. To streamline this style, take it to the office with a classic button-up shirt, cigarette pants and pumps.</li><li>The scarf-style choker, like we’ve seen in Dior’s collection, is super easy to DIY. You can wear these thick or thin– with ends hidden in the back, knotted and dangling in the front, or in a flirty oversized bow. A lightweight scarf choker looks fresh with a breezy sundress and wedges.</li><li>A faux fur choker adds a dose of luxury to cozy fall and winter styles. Wear a fur choker with a high-necked trench coat, leggings and ballet flats.</li><li>Re-purpose a <a href=\"http://www.justthedesign.com/the-bandana-little-neck-scarf-trend-is-here-outfits-ideas/\"><strong>bandana</strong></a> by tying it around your neck with a cute asymmetrical knot. So bad it’s good, this look is especially cool with a leather jacket, distressed skinny jeans and studded biker boots.</li><li>Feel like a queen in an extravagant diamond choker. These dynamic pieces can be dressed up or down, but we especially like its sophisticated richness with a crisp black blazer and stilettos.</li></ul><p>Whether your agenda includes a museum gallery show or packing a picnic lunch for the park, we hope our ideas will inspire you to incorporate the choker trend into your look. Let us know, what is the most creative way that you wear a choker? What are your favorite designer choker styles from the runway?</p><p>Featured photo: &nbsp;Olive green brings military chic to streetwear, polished off by a matching watch and crisp white sneakers. A simple black choker is paired with a delicate silver chain, complemented by the open neck of this soft black blouse. Via <a href=\"http://bykiki.damernasvarld.se/2016/08/25/cubus-look-ii\"><strong>Kristin Sundberg</strong></a>.</p><p>Jacket and Shirt: Cubus, Bag: Givenchy, Sunglasses: Rayban&nbsp;</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2017/04/Choker-Outfits-4-540x0.jpg\" alt=\"Julie Saranana wears a striking long length choker with an all black outfit consisting of ripped jeans, a waist clenching vest top, and black and white ankle boots. This choker brings all elements of Julie;s look together, which we love. Shoes: Isabel Marant.\"></figure><p><a href=\"https://www.instagram.com/p/BP0xnPWlaVd/?taken-by=sincerelyjules\"><strong>Julie Saranana</strong></a>&nbsp;wears a striking long length choker with an all black outfit consisting of ripped jeans, a waist clenching vest top, and black and white ankle boots. This choker brings all elements of Julie;s look together, which we love.&nbsp;</p><p>Shoes: Isabel Marant.</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/11/Choker-Outfits-1-1-e1488055360719-700x0.jpg\" alt=\"Chokers are a must-have for fall and winter! Simplistic yet chic, this look consists of a graphic print tee, jeans, and a pair of white sneakers. Via Christine Andrew. Outfit: ILY Couture.\"></figure><p><br>&nbsp;</p>",
+      "day": "20-06-2021"
+    },
+    {
+      "id": 177331,
+      "title": "Style Tips On How To Wear The Velvet Trend",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2FVelvet-Trend-7-600x900.jpeg?alt=media&token=2febfd66-3e47-4910-914d-4d4ff4cdc0cf",
+      "author": "Amina Mohammed",
+      "introduce": "Velvet material was seen all over the fall runways, this time around it’s more luxurious, colourful and versatile than ever before...",
+      "content": "<h2>How To Wear A Velvet Dress</h2><p>Velvet dresses are back with vengeance: this season they’re more fluid and feminine then before. Many designers from Prada to Preen showcased velvet dresses on the runway, in an array of colors and silhouettes. There’s a few versions of the velvet dress for you to experiment with; opt for something a little longer for a sophisticated ladylike look or a short and playful ruffled number as shown in Preen. To avoid feeling overwhelmed by fabric, don’t over-layer your look. Pair your velvet dress with a sleek and elegant mac and a cashmere scarf for a cosy feel during the <a href=\"http://www.justthedesign.com/cute-winter-outfits-to-get-you-inspired/\"><strong>winter months</strong></a>.</p><p>One of the best qualities of the little velvet dress is that it’s the perfect style to easily take from day to night.</p><ul><li>Dress down in the day by pairing your velvet dress with a blazer or go super casual with a <a href=\"http://www.justthedesign.com/rev-up-your-wardrobe-with-these-leather-jacket-outfits/\"><strong>leather jacket</strong></a> for a sumptuous play with textures.</li><li>In the evening coordinate your dress with pointy stilettos, a statement clutch bag and some red lippy</li><li>Feel festive with a <a href=\"http://www.justthedesign.com/red-dress-outfits/\"><strong>red velvet dress</strong></a> and make it chic by wearing it with a simple black chocker and black strappy heels</li><li>If you’re a girly girl, then wear a pink velvet mini dress with metallic heels for a look worthy of a Disney princess</li><li>If dresses are not quite your thing then opt for a velvet jumpsuit like the one seen on Cara Delevingne at the MTV movie awards</li></ul><h2>How To Wear Velvet Shoes &amp; Boots</h2><p>Velvet<a href=\"http://www.justthedesign.com/outfits/fall/how-to-wear-hunter-boots/\"><strong> boots</strong></a> are falls statement shoe. Keep the rest of your outfit neutral or even monochrome so that your shoes do all the talking. Take style inspiration from Gigi Hadid who was seen out and about in a head to toe denim look with red velvet boots to add a pop of color. If you’re bored of leather or satin stilettos then good news, velvet stilettos are having a moment this fall. Brands such as Jason Wu and Philip Lim have brought out velvet shoes that we are in love with.</p><ul><li>Our favourite way to wear velvet boots is with casual jeans, a vintage style tee and an oversized jacket for a rock princess look</li><li>For a casual evening look co-ordinate black leather pants with a black tee or silk vest and top your look off with blue velvet boots</li><li>For a sultry evening look wear strappy velvet sling backs with a thigh high slit dress and complete with a little metallic clutch</li><li>Wear bright velvet knee high boots with skinny jeans and a black crop top or<a href=\"http://www.justthedesign.com/fashion-trends/clothing/bodysuit-trend-right/\"><strong> bodysuit</strong></a> for a sultry evening outfit</li></ul><h2>The Cool Velvet Accessories You Need</h2><p>Accessories are probably the easiest way to make a simple and easy fashion statement. The choker has made its comeback; this fall velvet chokers will be all the rage. Play with different styles for thin to thick ones. If you’re looking for a cosy new scarf for fall then try a velvet number from Anna Sui’s collection, it’s a simple way to add a touch of luxury to your outfit.</p><p>Our favourite velvet fall accessory is the velvet bag. Calvin Klein has debuted a stunning red number complete with gold colored hardware. If you want a stand out bag then have a look at Fendi’s embroidered velvet peekaboo bag. For all of you fashionistas that want to be ahead of the rest, pair your velvet bag or choker with a longline velvet blazer for the ultimate forward thinking ensemble.</p><ul><li>Match your velvet chocker with a little black dress for a modern yet classic evening look</li><li>Wear a thick velvet choker with an off the shoulder blouse for a girly look</li><li>The velvet bag can be taken from day to night, in the evening dress it up with jewellery and a pair of killer heels</li><li>Add a pop of color to your work outfit by adding a cosy velvet scarf</li><li>If you’re a total fashionista pair this seasons velvet thigh high boots with distressed jeans, a <a href=\"http://www.justthedesign.com/30-great-outfits-that-will-show-you-how-to-wear-the-shearling-trend/\"><strong>shearling coat</strong></a> and top of the look with a glamorous velvet bag</li></ul><p>Velvet is set to be one of the biggest trends of the season so whether it’s crushed velvet boots or an embroidered bag, it’s a great way try something new. Let us know how you plan on rocking the trend this fall.</p><p>Featured Photo: <a href=\"http://ashley-ringmybell.blogspot.com.br/2014/10/prim.html\"><strong>Ashley Madekwe</strong></a> is seen in a cute, girly velvet dress. The length is perfect for a day dress and can be paired with tights and boots in the winter.</p><p>Dress: Topshop Unique, Blouse: Zara, Jacket: Balenciaga, Shoes: Senso</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2016/10/Velvet-Outfits-13-e1488235315767-700x0.jpg\" alt=\"Maria Vizuete wears velvet in a less forthcoming way here, but the subtlety of this look is equally successful. A velvet bag will add the touch of femininity to your look that you crave! Sweater: Free People, Coat: H&amp;M, Jeans: Express, Bag: Rebecca Minkoff.\"></figure><p><br>&nbsp;</p>",
+      "day": "20-06-2021"
+    },
+    {
+      "id": 638822,
+      "title": "How To Wear The Slip Dress Trend With Confidence",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ahsion.appspot.com/o/images%2FSlip-Dress-Trend-14-600x900.jpeg?alt=media&token=7f0d20d6-d71e-49bc-a909-d0e5f78fedbf",
+      "author": "Daisy Watford",
+      "introduce": "Since its red carpet heyday in the 1990’s, the slip dress trend has made an iconic comeback this season. Alexander Wang, Burberry and Paco Rabanne have all featured this classic dress in their latest ",
+      "content": "<p><strong>Ways To Wear Slip Dresses</strong></p><p>There are hundreds of ways to wear a slip dress but these celebrity inspired tips will have you rocking this iconic 90s look with a splash of 21st century pizazz.</p><ul><li>Discover your inner Kate Moss and team up your slinky number with a warm knitted jumper for those chilly winter days</li><li>A pair of jeans. It may sound a little laid back but if you don’t feel comfortable wearing a slip dress all by itself, then adding a pair of skinny jeans over the skirt will give you a sophisticated two piece outfit</li><li>Don’t be afraid to hide that waist, grab a belt, wrap it round the slip dress and show off your features</li><li>Combine a short slip dress with an oversized shirt or blazer and top it off with a trilby hat to really set yourself apart from the crowd</li><li>Wear it long. For an evening out on the town, nothing speaks glamour more than a floor length dress with a glitzy clutch</li></ul><p><strong>What Shoes To Wear With A Slip Dress</strong></p><p>Again, this can be a tricky decision. If you’re opting for a short to midi length slip dress then we’d recommend avoiding strappy heels and going for something slightly more unexpected. Take a look at these alternatives for some inspiration.</p><ul><li>For comfy, happy feet, a pretty pair of flat pumps will complement your glamourous dress perfectly. Match it with wavy locks and natural make up for a flawless look</li><li>If you’re after something a little more fashionista, try a pair of ankle boots completed with a denim jacket; you’ll certainly turn heads with this number</li><li>Bring back the classic slip dress <i>your</i> way with some comfy sneakers</li><li>H&amp;M made catwalk headlines with their 2016 Winter/Fall collection recently, teaming a silk dress with knee length boots for a bold yet elegant appearance</li></ul><p>So though the slip dress may seem like a daring addition to the wardrobe, it really can be worn in many, many ways making it a fashion must have this fall. What is your favourite way to wear a slip dress?</p><p>For a little more inspiration, take a look at how these fashion bloggers are styling their slip dresses this season.</p><p>Featured Photo:&nbsp;<a href=\"http://lisaplace.se/2016/09/02/silk-dress/\"><strong>Lisa Olsson</strong></a> opts for layers this fall with a white t-shirt and baggy cardigan teamed up with some converse for a comfy day time look.</p><p>Shoes: Converse, Dress: Sisters The Label, Bag: Chanel, T-shirt &amp; choker: ASOS here &amp;here, Cardigan: Lindex.&nbsp;</p><figure class=\"image\"><img src=\"https://www.justthedesign.com/wp-content/uploads/2017/03/Slip-Dress-12-1-768x0.jpg\" alt=\"Jill Lansky pairs a gorgeous black slip dress with a slick leather jacket and heeled black ankle boots for a casual but elegant street style. Jacket: Mackage, Dress: John Patrick, Bag: Celine, Boots: Philip Lim.\"></figure><p><br>&nbsp;</p>",
+      "day": "20-06-2021"
+    }
+  ]
+}

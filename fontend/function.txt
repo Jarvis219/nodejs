@@ -1,0 +1,24 @@
+chức năng chính 
+ *client
+  - đăng ký
+  - đăng nhập
+  - show danh mục
+  - show blog
+  - show chi tiết bài post
+  - show sản phẩm
+  - show chi tiết sản phẩm
+  - show sản phẩm liên quan
+  - tìm kiếm
+  - gửi liên hệ
+  - thêm vào giỏ hàng
+  - đặt hàng
+  *administration
+  - Quản trị thống kê (tĩnh)(xem)
+  - Quản trị thông tin chung (xem,thêm, sửa, xóa)
+  - Quản trị tài khoản (xem,thêm, sửa, xóa, phân quyền)
+  - Quản trị sản phẩm (xem,thêm, sửa, xóa)
+  - Quản trị thể loại (xem,thêm, sửa, xóa)
+  - Quản trị đơn hàng (xem, sửa, xóa, duyệt trạng thái, thống kê động)
+  - Quản trị liên hệ (xem, sửa, xóa, duyệt trạng thái)
+  - Quản trị bài viết  (xem,thêm, sửa, xóa)
+
