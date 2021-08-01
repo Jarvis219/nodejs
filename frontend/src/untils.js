@@ -1,7 +1,7 @@
 import jwt_decode from 'jwt-decode';
 import {
     UserAPI
-} from '../src/api/userAPI';
+} from './api/userAPI';
 export const useParams = () => {
     const url = window.location.hash.toLocaleLowerCase();
     // console.log(url);

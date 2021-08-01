@@ -3,8 +3,8 @@ import dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import cors from 'cors';
 
-const session = require('express-session')
-const flash = require('connect-flash');
+// const session = require('express-session')
+// const flash = require('connect-flash');
 const app = express()
 dotenv.config()
 
@@ -35,13 +35,13 @@ app.use(cors({
     credentials: 'same-origin'
 }));
 
-app.use(session({
-    secret: 'secret',
-    cookie: false,
-    resave: true,
-    saveUninitialized: true
-}));
-app.use(flash());
+// app.use(session({
+//     secret: 'secret',
+//     cookie: false,
+//     resave: true,
+//     saveUninitialized: true
+// }));
+// app.use(flash());
 app.use('/api', productRouters);
 app.use('/api', categoryRouters);
 app.use('/api/auth', authRouters, );

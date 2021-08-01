@@ -85,7 +85,7 @@ const Home = {
         ${ await  Header.render()}
         <div id="banner" class="">
             <section class="grid grid-cols-1 lg:grid-cols-2 gap-3 mt-24">
-                <div class="banner relative wow fadeInLeftBig" data-wow-duration="1s">
+                <div class="  relative">
                     <div class="object-cover">
                         <img src="./images/categories/category-1.jpg" alt="" class="h-full object-cover">
                         <div class="absolute inset-0 pt-48 pl-4 lg:pl-16 md:hidden ">
@@ -646,8 +646,6 @@ const Home = {
      `;
     },
     async afterRender() {
-
-
         $(document).ready(function () {
             $('.owl-carousel').owlCarousel({
                 items: 1,
@@ -658,8 +656,6 @@ const Home = {
                 autoplayHoverPause: true
             });
         });
-
-
         checkLogout();
         btnScoll();
         search();
