@@ -25,7 +25,7 @@ const ListCarts = {
             <form id="search-order">
             <div class="flex  justify-center gap-8">
             <div >
-                        <label for="">Name/phone/address/times</label><br>
+                        <label for="">Name/address</label><br>
                     <input type="text" id="searchAll" class="px-2 rounded " >
                     </div >
                     <div>
@@ -42,8 +42,8 @@ const ListCarts = {
                         <label for="">Sort price</label> <br>
                     <select name="" id="sort" class="px-6 rounded ">
                     <option value="#">Sort price</option>
-                        <option value="asc">expensive</option>
-                        <option value="desc">low</option>
+                        <option value="1">expensive</option>
+                        <option value="-1">low</option>
                     </select>
                     </div>
                     <div class="mt-3"><button type="submit"

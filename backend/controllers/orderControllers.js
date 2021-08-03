@@ -71,3 +71,48 @@ export const updateOrder = (req, res) => {
         })
     })
 }
+
+export const listTotal = (req,res)=>{
+    let q = req.query.q ;
+    let sort = req.query.sort ? req.query.sort :1;
+    // console.log(sort);
+    var data ;
+    if(q ){
+        data =  Order.find(({
+            $or:[
+                {
+                    "name": {
+                        $regex: `${q}`,
+                        $options: '$i'
+                    }
+                },
+                {
+                    "address": {
+                        $regex: `${q}`,
+                        $options: '$i'
+                    }
+                },{
+                    "status": {
+                        $regex: `${q}`,
+                        $options: '$i'
+                    }
+                }
+               
+            ]
+        }))
+    }else{
+        data =  Order.find();
+    }
+    data
+    .sort({"sumMoney":sort})
+    .exec((err,data)=>{
+        if (err) {
+            return res.status(400).json({
+               err
+            })
+        }
+        res.json({
+            data
+        })
+    })
+}

@@ -121,10 +121,10 @@ const ListCartChild = {
         $$('#status').onchange = async () => {
             const {
                 data: status
-            } = await ordersAPI.list();
+            } = await ordersAPI.listSearchAll($$('#status').value);
             // console.log(1);
             // console.log(status);
-            const showStatus = status.map((element, index) => {
+            const showStatus = status.data.map((element, index) => {
                 const statusTable = () => {
                     if (element.status == 'not approved yet') {
                         return /*html*/ `
@@ -198,22 +198,15 @@ const ListCartChild = {
         }
 
         $$('#sort').onchange = async () => {
-            let sort;
-            if ($$('#sort').value == "asc") {
+            // let sort;
+         
                 const {
                     data: sorts
-                } = await ordersAPI.listSort();
-                sort = sorts;
-            } else if ($$('#sort').value == "asc") {
-                const {
-                    data: sorts
-                } = await ordersAPI.listSortDesc();
-                sort = sorts;
-            } else {
-                reRender(ListCartChild, '#list-cart')
-            };
+                } = await ordersAPI.listSort($$('#sort').value);
+                // sort = sorts;
+                // console.log(sort)
 
-            const showSort = sort.map((element, index) => {
+            const showSort = sorts.data.map((element, index) => {
                 const statusTable = () => {
                     if (element.status == 'not approved yet') {
                         return /*html*/ `
@@ -306,9 +299,9 @@ const ListCartChild = {
                 const {
                     data: searchAll
                 } = await ordersAPI.listSearchAll($$('#searchAll').value)
-                console.log(searchAll);
+                // console.log(searchAll.data);
                 if (searchAll.length !== 0) {
-                    const showAll = searchAll.map((element, index) => {
+                    const showAll = searchAll.data.map((element, index) => {
                         const statusTable = () => {
                             if (element.status == 'not approved yet') {
                                 return /*html*/ `

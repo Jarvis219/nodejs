@@ -18,6 +18,7 @@ import {
 } from "../controllers/auth";
 router.get('/information', listInfor);
 router.get('/information/:inforId', readInfor);
+// router.post('/information', addInfor);
 router.post('/information/:userId', requireSignin, isAuth, isAdmin, addInfor);
 router.put('/information/:inforId/:userId', requireSignin, isAuth, isAdmin, updateInfor);
 router.delete('/information/:inforId/:userId', requireSignin, isAuth, isAdmin, removeInfor);

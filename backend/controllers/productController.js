@@ -199,7 +199,7 @@ export const listRelated = (req, res) => {
             res.json(products)
         })
 }
-
+// tìm kiếm theo name
 export const listSearch = (req, res) => {
     // console.log(1);
     let limit = req.query.limit ? req.query.limit : 12;

@@ -5,7 +5,7 @@ import {
     orderByID,
     readOrder,
     removeOrder,
-    updateOrder
+    updateOrder, listTotal
 } from "../controllers/orderControllers";
 import {
     userID
@@ -16,6 +16,8 @@ import {
     isAdmin
 } from "../controllers/auth";
 const router = express.Router();
+
+router.get('/orders/totals', listTotal);
 router.get('/orders', listOrder);
 router.get('/orders/:orderId', readOrder);
 router.post('/orders', addOrder);
