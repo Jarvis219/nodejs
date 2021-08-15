@@ -39,6 +39,7 @@ import Order from './pages/order';
 import ListPost from './pages/admin/posts/listpost';
 import EditPost from './pages/admin/posts/editpost';
 import ActiveEmail from './pages/activeEmail';
+import User from './pages/user'
 let routes;
 async function checkUser() {
 
@@ -96,6 +97,7 @@ async function checkUser() {
                 '/signup': SignUp,
                 '/signin': SignIn,
                 '/order': Order,
+                '/user':User,
                 //Admin
                 '/listproducts': Home,
                 '/listcategory': Home,
@@ -118,6 +120,7 @@ async function checkUser() {
                 '/listpost': Home,
                 '/editpost/:id': Home,
                 '/activeemail': ActiveEmail
+
             }
         }
     } else {
@@ -154,7 +157,8 @@ async function checkUser() {
             '/dashboard': Home,
             '/listpost': Home,
             '/editpost/:id': Home,
-            '/activeemail': ActiveEmail
+            '/activeemail': ActiveEmail,
+            '/user':User,
         }
     }
 }

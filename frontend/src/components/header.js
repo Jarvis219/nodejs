@@ -54,6 +54,9 @@ const Header = {
                         <a href="/#/order"><div class="hover:bg-gray-200 rounded-t-md py-2  "><i class="fas fa-file-medical-alt"></i>
                         <button  class="text-sm font-semibold text-black hover:text-[#89229b]" >Order </button>
                         </div></a>
+                        <a href="/#/user"><div class="hover:bg-gray-200 rounded-t-md py-2  "><i class="fas fa-users-cog"></i>
+                        <button  class="text-sm font-semibold text-black hover:text-[#89229b]" >User </button>
+                        </div></a>
                         <div class=" hover:bg-gray-200 ">
                         <button class=" cursor-pointer  rounded-b-md px-10 text-sm py-2 font-semibold text-black hover:text-[#89229b]" id="log-out"><i class="fas fa-sign-out-alt"></i>logout</button>
                         </div>

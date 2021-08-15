@@ -487,7 +487,7 @@ const ProductDetail = {
                 // console.log(checkCart);
 
                 if (checkCart == -1) { // không có id nào trùng với trên local thì số lượng sẽ tăng lên 1 và push thêm object data vào mảng screenCart
-                    ;
+                    
                     data.amount = 1;
                     screenCart.push(data);
 
