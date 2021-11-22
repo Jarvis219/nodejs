@@ -163,41 +163,6 @@ async function checkUser() {
     }
 }
 
-// routes = {
-//     '/': Home,
-//     '/products': Product,
-//     '/blog': Blog,
-//     '/contact': Contact,
-//     '/products/:id': ProductDetail,
-//     '/shopcart': ShopCart,
-//     '/checkout': CheckOut,
-//     '/blogdetail/:id': BlogDetail,
-//     '/signup': SignUp,
-//     '/signin': SignIn,
-//     //Admin
-//     '/listproducts': Adminproducts,
-//     '/listcategory': AdminCategory,
-//     '/editproduct/:id': EitProduct,
-//     '/editcategory/:id': EditCategory,
-//     '/addproduct': AddProduct,
-//     '/addcategory': AddCategory,
-//     '/listusers': ListUser,
-//     '/adduser': AddUser,
-//     '/edituser/:id': EditUser,
-//     '/productcate/:id': ProductCate,
-//     '/listcontact': ListContact,
-//     '/listcarts': ListCarts,
-//     '/editcart/:id': EditCart,
-//     '/listinformation': ListInformation,
-//     '/addinformation': AddInformation,
-//     '/editinformation/:id': EditInformation,
-//     '/addpost': AddPost,
-//     '/dashboard': Dashboard,
-//     '/order': Order,
-//     '/listpost': ListPost,
-//     '/editpost/:id': EditPost,
-//     '/activeemail': ActiveEmail
-// }
 const router = async () => {
     const {
         resource,
