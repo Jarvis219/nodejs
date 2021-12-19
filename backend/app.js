@@ -2,6 +2,10 @@ import express from 'express';
 import dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import cors from 'cors';
+const swaggerUi = require('swagger-ui-express');
+const swaggerDocument = require('./swagger.json');
+
+
 
 // const session = require('express-session')
 // const flash = require('connect-flash');
@@ -51,6 +55,8 @@ app.use('/api/', inforRouters);
 app.use('/api', orderRouters);
 app.use('/api', cartRouters);
 app.use('/api', userRouters);
+
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
 
 const port = process.env.PORT || 8080;

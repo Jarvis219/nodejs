@@ -1,0 +1,177 @@
+{
+	"openapi": "3.0.1",
+	"infor": {
+		"title": "categories",
+		"description": "doccument",
+		"version": "1.0.0"
+	},
+	"basePath": "/",
+	"components": {
+		"securitySchemes": {
+			"bearerAuth": {
+				"type": "http",
+				"scheme": "bearer",
+				"bearerFormat": "JWT"
+			}
+		}
+	},
+	"paths": {
+		"/api/categories": {
+			"get": {
+				"tags": ["Categories"],
+				"security": [{ "bearerAuth": [] }],
+				"requestBody": {
+					"content": {
+						"application/json": {
+							"schema": {
+								"type": "object",
+								"properties": {
+									"_id": { "type": "string" },
+									"name": {
+										"type": "string"
+									},
+									"createdAt": { "type": "string" },
+									"updatedAt": { "type": "string" }
+								}
+							},
+							"example": {
+								"_id": "6107d2ec4f382c1d482c5577",
+								"name": "t-shirt",
+								"createdAt": "2021-08-02T11:11:40.738Z",
+								"updatedAt": "2021-08-02T11:11:40.738Z"
+							}
+						}
+					}
+				},
+				"responses": {
+					"200": {
+						"description": "OK"
+					},
+					"401": {
+						"description": "Unauthorized"
+					},
+					"400": {
+						"description": "this product already exist"
+					}
+				}
+			},
+
+			"post": {
+				"tags": ["Categories"],
+				"security": [{ "bearerAuth": [] }],
+				"requestBody": {
+					"content": {
+						"application/json": {
+							"schema": {
+								"type": "object",
+								"properties": {
+									"_id": { "type": "string" },
+									"name": {
+										"type": "string"
+									},
+									"createdAt": { "type": "string" },
+									"updatedAt": { "type": "string" }
+								}
+							},
+							"example": {
+								"_id": "6107d2ec4f382c1d482c5577",
+								"name": "t-shirt",
+								"createdAt": "2021-08-02T11:11:40.738Z",
+								"updatedAt": "2021-08-02T11:11:40.738Z"
+							}
+						}
+					}
+				},
+				"responses": {
+					"200": {
+						"description": "UPDATE OK"
+					},
+					"401": {
+						"description": "Unauthorized"
+					},
+					"400": {
+						"description": "this product already exist"
+					}
+				}
+			}
+		},
+		"/api/categories/:id": {
+			"put": {
+				"tags": ["Categories"],
+				"security": [{ "bearerAuth": [] }],
+				"requestBody": {
+					"content": {
+						"application/json": {
+							"schema": {
+								"type": "object",
+								"properties": {
+									"_id": { "type": "string" },
+									"name": {
+										"type": "string"
+									},
+									"createdAt": { "type": "string" },
+									"updatedAt": { "type": "string" }
+								}
+							},
+							"example": {
+								"_id": "6107d2ec4f382c1d482c5577",
+								"name": "t-shirt",
+								"createdAt": "2021-08-02T11:11:40.738Z",
+								"updatedAt": "2021-08-02T11:11:40.738Z"
+							}
+						}
+					}
+				},
+				"responses": {
+					"200": {
+						"description": "OK"
+					},
+					"401": {
+						"description": "Unauthorized"
+					},
+					"400": {
+						"description": "this product already exist"
+					}
+				}
+			},
+			"delete": {
+				"tags": ["Categories"],
+				"security": [{ "bearerAuth": [] }],
+				"requestBody": {
+					"content": {
+						"application/json": {
+							"schema": {
+								"type": "object",
+								"properties": {
+									"_id": { "type": "string" },
+									"name": {
+										"type": "string"
+									},
+									"createdAt": { "type": "string" },
+									"updatedAt": { "type": "string" }
+								}
+							},
+							"example": {
+								"_id": "6107d2ec4f382c1d482c5577",
+								"name": "t-shirt",
+								"createdAt": "2021-08-02T11:11:40.738Z",
+								"updatedAt": "2021-08-02T11:11:40.738Z"
+							}
+						}
+					}
+				},
+				"responses": {
+					"200": {
+						"description": "DELETE OK"
+					},
+					"401": {
+						"description": "Unauthorized"
+					},
+					"400": {
+						"description": "this product already exist"
+					}
+				}
+			}
+		}
+	}
+}
