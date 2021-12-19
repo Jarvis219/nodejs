@@ -9,8 +9,6 @@ import {
 
 import {
     requireSignin,
-    isAuth,
-    isAdmin
 } from "../controllers/auth";
 const router = express.Router();
 
